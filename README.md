@@ -1,4 +1,4 @@
-# Data Dictionary — Dunder Mifflin Training Dataset
+# Dunder Mifflin Dataset Dictionary
 
 Every file, its grain, join keys, and every column with its **statistical variable type**.
 

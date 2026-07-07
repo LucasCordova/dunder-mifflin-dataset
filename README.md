@@ -10,6 +10,55 @@ Every file, its grain, join keys, and every column with its **statistical variab
 
 ---
 
+## Layout
+
+```
+data/
+├── clean/          # canonical warehouse tables — tidy, ready to analyze
+│   ├── branches.csv                 (11)
+│   ├── employees.csv                (500)
+│   ├── products.csv                 (119)
+│   ├── customers.csv                (2,500)
+│   ├── sales_orders.csv             (72,000)      order headers
+│   ├── sales_order_lines.csv        (215,485)     ← large time-series fact table
+│   ├── sales_targets.csv            (1,637)       quarterly quota vs actual
+│   └── ai_readiness_survey.csv      (473)         one row per active employee
+├── ml/             # machine-learning layer (invented paper mill)
+│   ├── machines.csv                 (48)
+│   ├── production_runs.csv          (94,307)
+│   ├── machine_telemetry.csv        (262,944)     ← large sensor table
+│   ├── maintenance_events.csv       (3,867)       preventive + failures
+│   └── equipment_failure_dataset.csv (87,648)     ← model-ready, one row per machine-day
+├── raw_sources/    # intentionally-messy exports for the pipeline module
+│   ├── crm_customer_export.csv      (2,189)
+│   ├── erp_orders_export.csv        (66,096)
+│   └── regional_manager_tracker.csv (600)
+└── excel_starter/  # small, Excel-sized slice (Scranton, 2022) — see below
+    ├── (same clean tables, scoped)           ≤ 17,520 rows each
+    ├── equipment_failure_dataset.csv         (17,520)
+    ├── machine_telemetry_sample.csv          (73)  ← one failure, for a line chart
+    └── (scoped crm / erp / regional_manager exports)
+```
+
+---
+
+## One-line "why it's in there" index
+
+| Feature | File | Serves |
+|---|---|---|
+| Salary skew + CEO outlier | employees | mean vs median |
+| One column per variable type | products | variable typing |
+| Linear price ~ weight + type | products | dummy-coded regression |
+| Trend + Q4 + summer + 2020 shock + Stamford close | sales_order_lines | forecasting & storytelling |
+| Renamed cols / bad dates / dupes / currency strings | raw_sources | Power Query clean & combine |
+| Wrong hand-entered totals | regional_manager_tracker | single source of truth |
+| Star schema on surrogate keys | clean/* | SQL ↔ Excel |
+| ~7% positive label | equipment_failure_dataset | accuracy is misleading |
+| Pre-failure sensor ramp | telemetry / *_roll7 | signal a simple model can learn |
+| Vibration→pressure lead shift over years | equipment_failure_dataset | concept drift / deploy degradation |
+| Comfort↔usage corr, dept variation, barriers | ai_readiness_survey | ADKAR diagnosis |
+
+
 ## `data/clean/` — canonical warehouse
 
 ### branches.csv

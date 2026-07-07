@@ -1,15 +1,5 @@
 # Dunder Mifflin Dataset Dictionary
 
-Every file, its grain, join keys, and every column with its **statistical variable type**.
-
-- **Nominal** — unordered categories (department, paper_type, color)
-- **Ordinal** — ordered categories (level, brand_tier, segment, criticality)
-- **Discrete** — countable numbers (quantity, ream_size, headcount)
-- **Continuous** — measured numbers (salary, weight_gsm, temperature)
-- **Identifier / Date / Boolean** — keys, timestamps, flags (not analysis variables)
-
----
-
 ## Layout
 
 ```

@@ -1,0 +1,49 @@
+machine_id,machine_name,machine_type,facility,install_date,manufacturer,model,rated_capacity_units_hr,criticality
+1,WRAPPER-01,Wrapper,Scranton Mill,2015-03-02,Lantech,LAN-8960,600,2
+2,SHEETER-02,Sheeter,Scranton Mill,2007-12-14,Pasaban,PAS-4107,600,3
+3,SHEETER-03,Sheeter,Scranton Mill,2016-12-23,Marquip,MAR-6896,1500,3
+4,WRAPPER-04,Wrapper,Scranton Mill,2016-12-18,Lantech,LAN-2850,600,2
+5,PAPER-05,Paper Machine,Scranton Mill,2016-10-12,Voith,VOI-8107,1200,2
+6,SHEETER-06,Sheeter,Scranton Mill,2006-11-13,Pasaban,PAS-9790,1200,3
+7,WINDER-07,Winder,Nashua Converting,2007-06-25,Kampf,KAM-2587,1500,5
+8,SHEETER-08,Sheeter,Scranton Mill,2014-06-27,Pasaban,PAS-2822,800,4
+9,WRAPPER-09,Wrapper,Scranton Mill,2017-06-25,Lantech,LAN-5266,1000,2
+10,WRAPPER-10,Wrapper,Scranton Mill,2016-11-26,Signode,SIG-9958,1200,4
+11,WRAPPER-11,Wrapper,Nashua Converting,2011-06-14,Lantech,LAN-4768,800,4
+12,CUTTER-12,Cutter,Scranton Mill,2015-12-05,Wohlenberg,WOH-4398,1200,4
+13,SHEETER-13,Sheeter,Scranton Mill,2017-09-07,Marquip,MAR-7186,600,4
+14,PAPER-14,Paper Machine,Nashua Converting,2005-07-07,Voith,VOI-4803,1500,3
+15,PAPER-15,Paper Machine,Nashua Converting,2007-07-30,Valmet,VAL-6190,800,4
+16,SHEETER-16,Sheeter,Nashua Converting,2007-01-29,Pasaban,PAS-9207,1200,3
+17,WINDER-17,Winder,Nashua Converting,2009-05-28,Jagenberg,JAG-7825,600,1
+18,PAPER-18,Paper Machine,Scranton Mill,2016-11-28,Voith,VOI-3334,1000,2
+19,PAPER-19,Paper Machine,Nashua Converting,2008-02-02,Voith,VOI-5809,1500,3
+20,CUTTER-20,Cutter,Scranton Mill,2013-11-04,Polar,POL-7844,800,4
+21,CUTTER-21,Cutter,Scranton Mill,2007-02-09,Polar,POL-3051,1200,3
+22,WINDER-22,Winder,Nashua Converting,2010-10-15,Jagenberg,JAG-9439,800,2
+23,WINDER-23,Winder,Nashua Converting,2017-02-07,Jagenberg,JAG-7124,600,3
+24,SHEETER-24,Sheeter,Scranton Mill,2009-02-11,Pasaban,PAS-5790,800,2
+25,WRAPPER-25,Wrapper,Nashua Converting,2004-04-22,Signode,SIG-7585,600,4
+26,SHEETER-26,Sheeter,Scranton Mill,2012-09-06,Marquip,MAR-4331,800,1
+27,WINDER-27,Winder,Nashua Converting,2012-01-09,Kampf,KAM-9399,800,2
+28,WINDER-28,Winder,Scranton Mill,2013-08-01,Kampf,KAM-1125,1000,4
+29,CUTTER-29,Cutter,Scranton Mill,2013-11-26,Wohlenberg,WOH-2574,1000,5
+30,PAPER-30,Paper Machine,Nashua Converting,2012-07-31,Valmet,VAL-3620,1200,3
+31,PAPER-31,Paper Machine,Scranton Mill,2017-05-16,Voith,VOI-9313,1200,3
+32,SHEETER-32,Sheeter,Scranton Mill,2005-07-18,Marquip,MAR-6622,1500,3
+33,PAPER-33,Paper Machine,Scranton Mill,2012-04-25,Voith,VOI-8824,800,4
+34,SHEETER-34,Sheeter,Scranton Mill,2016-03-11,Marquip,MAR-9486,1200,4
+35,WINDER-35,Winder,Scranton Mill,2005-01-07,Kampf,KAM-2888,1200,3
+36,PAPER-36,Paper Machine,Scranton Mill,2016-03-22,Voith,VOI-5870,1200,4
+37,PAPER-37,Paper Machine,Scranton Mill,2009-07-07,Voith,VOI-7855,1200,3
+38,PAPER-38,Paper Machine,Nashua Converting,2012-11-18,Valmet,VAL-4582,800,5
+39,CUTTER-39,Cutter,Scranton Mill,2007-12-28,Wohlenberg,WOH-7742,1200,1
+40,WRAPPER-40,Wrapper,Scranton Mill,2005-09-02,Signode,SIG-5096,1200,2
+41,WINDER-41,Winder,Nashua Converting,2013-01-14,Kampf,KAM-8180,1500,4
+42,WINDER-42,Winder,Scranton Mill,2017-04-25,Kampf,KAM-7048,1500,2
+43,PAPER-43,Paper Machine,Nashua Converting,2008-05-25,Valmet,VAL-7621,1000,4
+44,SHEETER-44,Sheeter,Scranton Mill,2003-12-21,Marquip,MAR-5865,600,3
+45,SHEETER-45,Sheeter,Scranton Mill,2006-06-21,Marquip,MAR-4763,600,3
+46,WRAPPER-46,Wrapper,Nashua Converting,2012-12-14,Signode,SIG-6951,1500,1
+47,SHEETER-47,Sheeter,Nashua Converting,2006-10-05,Pasaban,PAS-8637,800,1
+48,WINDER-48,Winder,Nashua Converting,2007-06-21,Jagenberg,JAG-2628,1000,4

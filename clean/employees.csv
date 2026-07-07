@@ -1,0 +1,501 @@
+employee_id,first_name,last_name,branch_id,department,job_title,level,hire_date,termination_date,employment_status,salary,bonus_eligible,manager_id,email
+1,Michael,Scott,1,Management,Regional Manager,5,2013-04-06,,Active,95000,True,,michael.scott@dundermifflin.com
+2,Dwight,Schrute,1,Sales,Assistant Regional Manager,3,2009-12-10,,Active,68000,True,1,dwight.schrute@dundermifflin.com
+3,Jim,Halpert,1,Sales,Sales Representative,3,2007-12-03,,Active,60000,True,1,jim.halpert@dundermifflin.com
+4,Pam,Beesly,1,Administration,Office Administrator,2,2005-10-22,,Active,42000,False,1,pam.beesly@dundermifflin.com
+5,Andy,Bernard,1,Sales,Sales Representative,3,2012-02-19,,Active,58000,True,1,andy.bernard@dundermifflin.com
+6,Stanley,Hudson,1,Sales,Sales Representative,3,2014-10-27,,Active,62000,True,1,stanley.hudson@dundermifflin.com
+7,Phyllis,Vance,1,Sales,Sales Representative,3,2007-12-17,,Active,57000,True,1,phyllis.vance@dundermifflin.com
+8,Angela,Martin,1,Accounting,Senior Accountant,3,2014-11-18,,Active,61000,True,1,angela.martin@dundermifflin.com
+9,Kevin,Malone,1,Accounting,Staff Accountant,2,2014-04-05,,Active,47000,False,1,kevin.malone@dundermifflin.com
+10,Oscar,Martinez,1,Accounting,Senior Accountant,3,2005-05-28,,Active,63000,True,1,oscar.martinez@dundermifflin.com
+11,Toby,Flenderson,1,Human Resources,HR Representative,3,2006-08-19,,Active,59000,True,1,toby.flenderson@dundermifflin.com
+12,Kelly,Kapoor,1,Customer Service,Customer Service Rep,2,2008-02-12,,Active,44000,False,1,kelly.kapoor@dundermifflin.com
+13,Meredith,Palmer,1,Supplier Relations,Supplier Relations Rep,2,2006-11-21,,Active,45000,False,1,meredith.palmer@dundermifflin.com
+14,Creed,Bratton,1,Quality Assurance,Quality Assurance Director,2,2014-03-05,,Active,46000,False,1,creed.bratton@dundermifflin.com
+15,Darryl,Philbin,1,Warehouse,Warehouse Foreman,3,2014-01-16,,Active,52000,True,1,darryl.philbin@dundermifflin.com
+16,Erin,Hannon,1,Administration,Receptionist,1,2012-01-06,,Active,34000,False,1,erin.hannon@dundermifflin.com
+17,Roy,Anderson,1,Warehouse,Warehouse Associate,1,2014-09-01,,Active,36000,False,1,roy.anderson@dundermifflin.com
+18,Ryan,Howard,1,Sales,Sales Representative,2,2006-05-20,,Active,41000,False,1,ryan.howard@dundermifflin.com
+19,Holly,Flax,4,Human Resources,HR Representative,3,2014-05-10,,Active,58000,True,,holly.flax@dundermifflin.com
+20,Nellie,Bertram,1,Management,Special Projects Manager,4,2009-09-06,,Active,82000,True,1,nellie.bertram@dundermifflin.com
+21,Gabe,Lewis,1,Management,Regional Liaison,4,2006-09-19,,Active,79000,True,1,gabe.lewis@dundermifflin.com
+22,Jan,Levinson,11,Corporate,VP of Sales,5,2007-11-08,,Active,168000,True,23,jan.levinson@dundermifflin.com
+23,David,Wallace,11,Corporate,Chief Financial Officer,6,2012-08-24,,Active,255000,True,,david.wallace@dundermifflin.com
+24,Robert,California,11,Corporate,Chief Executive Officer,6,2010-05-22,,Active,410000,True,23,robert.california@dundermifflin.com
+25,Charles,Miner,11,Corporate,VP of Northeast Region,5,2009-08-23,,Active,172000,True,23,charles.miner@dundermifflin.com
+26,Leah,Haddad,7,Administration,Office Administrator,2,2011-02-11,,Active,35142,False,39,leah.haddad26@dundermifflin.com
+27,Hugo,Ali,7,Warehouse,Warehouse Associate,1,2012-07-05,,Active,29765,False,39,hugo.ali27@dundermifflin.com
+28,Sage,Flores,8,Accounting,Staff Accountant,2,2018-03-18,,Active,46920,False,34,sage.flores28@dundermifflin.com
+29,Fatima,Wilson,2,Human Resources,HR Representative,3,2018-03-04,,Active,57637,True,,fatima.wilson29@dundermifflin.com
+30,Avery,Wilson,1,Human Resources,HR Representative,3,2014-04-02,2018-05-22,Terminated,65004,True,1,avery.wilson30@dundermifflin.com
+31,Skyler,Yamamoto,6,Administration,Office Administrator,2,2014-10-20,,Active,43166,False,43,skyler.yamamoto31@dundermifflin.com
+32,Riley,Novak,3,Accounting,Staff Accountant,2,2014-03-01,,Active,51755,False,48,riley.novak32@dundermifflin.com
+33,Tomas,Okafor,1,Warehouse,Warehouse Associate,1,2011-12-16,,Active,25399,False,1,tomas.okafor33@dundermifflin.com
+34,Tomas,Anderson,8,Human Resources,HR Representative,3,2010-01-04,,Active,63146,True,,tomas.anderson34@dundermifflin.com
+35,Avery,Petrov,5,Human Resources,HR Representative,3,2018-10-07,,Active,66855,True,,avery.petrov35@dundermifflin.com
+36,Parker,Ali,9,Human Resources,HR Representative,3,2013-05-18,,Active,58887,True,,parker.ali36@dundermifflin.com
+37,Peyton,Rossi,4,Accounting,Staff Accountant,2,2012-05-28,,Active,45085,False,19,peyton.rossi37@dundermifflin.com
+38,Priya,Kim,8,Customer Service,Customer Service Rep,2,2013-05-25,,Active,45257,False,34,priya.kim38@dundermifflin.com
+39,Peyton,Dubois,7,Sales,Sales Representative,3,2016-09-23,,Active,50186,True,,peyton.dubois39@dundermifflin.com
+40,Taylor,Costa,1,Accounting,Senior Accountant,3,2016-01-27,,Active,69394,True,1,taylor.costa40@dundermifflin.com
+41,Blake,Ali,1,Customer Service,Customer Service Rep,2,2009-01-17,,Active,43174,False,1,blake.ali41@dundermifflin.com
+42,Quinn,Smith,3,Accounting,Staff Accountant,2,2017-10-17,,Active,50583,False,48,quinn.smith42@dundermifflin.com
+43,Jamie,Flores,6,Human Resources,HR Representative,3,2013-11-30,,Active,65147,True,,jamie.flores43@dundermifflin.com
+44,Devon,Martinez,6,Warehouse,Warehouse Associate,1,2015-11-16,,Active,22014,False,43,devon.martinez44@dundermifflin.com
+45,Casey,Gonzalez,6,Sales,Sales Representative,3,2009-05-20,,Active,52856,True,43,casey.gonzalez45@dundermifflin.com
+46,Nina,Hernandez,5,Accounting,Senior Accountant,3,2011-03-09,,Active,55280,True,35,nina.hernandez46@dundermifflin.com
+47,Morgan,Moore,7,Accounting,Staff Accountant,2,2009-12-19,,Active,37100,False,39,morgan.moore47@dundermifflin.com
+48,Micah,Kim,3,Accounting,Senior Accountant,3,2017-02-06,,Active,63639,True,,micah.kim48@dundermifflin.com
+49,Wei,Moore,9,Human Resources,HR Representative,3,2015-10-21,,Active,59183,True,36,wei.moore49@dundermifflin.com
+50,Morgan,Singh,2,Customer Service,Customer Service Rep,2,2014-10-02,2016-06-23,Terminated,45522,False,29,morgan.singh50@dundermifflin.com
+51,Riley,Rossi,6,Customer Service,Customer Service Rep,2,2017-10-27,,Active,37030,False,43,riley.rossi51@dundermifflin.com
+52,Micah,Moore,8,Administration,Office Administrator,2,2015-06-06,,Active,38386,False,34,micah.moore52@dundermifflin.com
+53,Emerson,Jackson,2,Administration,Receptionist,1,2011-02-22,,Active,39569,False,29,emerson.jackson53@dundermifflin.com
+54,Hugo,Miller,1,Warehouse,Warehouse Associate,1,2013-03-21,,Active,28944,False,1,hugo.miller54@dundermifflin.com
+55,Blake,Costa,3,Accounting,Senior Accountant,3,2014-07-11,2017-06-17,Terminated,64400,True,48,blake.costa55@dundermifflin.com
+56,Riley,Lopez,9,Customer Service,Customer Service Rep,2,2013-05-24,,Active,37834,False,36,riley.lopez56@dundermifflin.com
+57,Wei,Haddad,4,Accounting,Staff Accountant,2,2011-09-11,,Active,54219,False,19,wei.haddad57@dundermifflin.com
+58,Sydney,Martinez,10,Administration,Office Administrator,2,2018-06-21,,Active,53346,False,66,sydney.martinez58@dundermifflin.com
+59,Rowan,Petrov,8,Human Resources,HR Representative,3,2009-05-16,,Active,64588,True,34,rowan.petrov59@dundermifflin.com
+60,Blake,Flores,7,Customer Service,Customer Service Rep,2,2016-04-28,,Active,43109,False,39,blake.flores60@dundermifflin.com
+61,Peyton,Yamamoto,8,Sales,Sales Representative,3,2009-01-31,,Active,74844,True,34,peyton.yamamoto61@dundermifflin.com
+62,Zane,Garcia,4,Administration,Receptionist,1,2013-09-27,,Active,30853,False,19,zane.garcia62@dundermifflin.com
+63,Hayden,Anderson,5,Customer Service,Customer Service Rep,2,2010-02-16,,Active,41552,False,35,hayden.anderson63@dundermifflin.com
+64,Hugo,Martinez,8,Sales,Junior Sales Rep,2,2018-07-11,,Active,43883,False,34,hugo.martinez64@dundermifflin.com
+65,Avery,Wilson,7,Human Resources,HR Representative,3,2012-12-12,,Active,74507,True,39,avery.wilson65@dundermifflin.com
+66,Omar,Gonzalez,10,Accounting,Senior Accountant,3,2009-04-15,,Active,61574,True,,omar.gonzalez66@dundermifflin.com
+67,Parker,Garcia,9,Accounting,Staff Accountant,2,2018-08-30,,Active,46928,False,36,parker.garcia67@dundermifflin.com
+68,Leah,Chen,7,Administration,Office Administrator,2,2014-09-27,,Active,45017,False,39,leah.chen68@dundermifflin.com
+69,Tomas,Garcia,6,Sales,Junior Sales Rep,2,2014-07-29,,Active,42050,False,43,tomas.garcia69@dundermifflin.com
+70,Riley,Nguyen,3,Administration,Receptionist,1,2013-11-03,,Active,29279,False,48,riley.nguyen70@dundermifflin.com
+71,Emerson,Smith,4,Administration,Office Administrator,2,2012-12-20,,Active,34022,False,19,emerson.smith71@dundermifflin.com
+72,Riley,Singh,1,Human Resources,HR Representative,3,2014-09-20,,Active,79591,True,1,riley.singh72@dundermifflin.com
+73,Sofia,Moore,5,Administration,Office Administrator,2,2014-03-31,,Active,41388,False,35,sofia.moore73@dundermifflin.com
+74,Tomas,Martinez,4,Sales,Sales Representative,3,2011-01-03,,Active,58649,True,19,tomas.martinez74@dundermifflin.com
+75,Hugo,Reyes,3,Customer Service,Customer Service Rep,2,2011-06-08,,Active,35821,False,48,hugo.reyes75@dundermifflin.com
+76,Nina,Reyes,9,Sales,Junior Sales Rep,2,2016-02-23,,Active,37578,False,36,nina.reyes76@dundermifflin.com
+77,Tomas,Petrov,8,Human Resources,HR Representative,3,2009-05-30,2010-08-25,Terminated,58124,True,34,tomas.petrov77@dundermifflin.com
+78,Sofia,Gonzalez,4,Sales,Sales Representative,3,2015-10-15,,Active,66898,True,19,sofia.gonzalez78@dundermifflin.com
+79,Micah,Miller,5,Sales,Sales Representative,3,2014-05-12,2015-09-01,Terminated,57803,True,35,micah.miller79@dundermifflin.com
+80,Taylor,Moore,10,Accounting,Senior Accountant,3,2013-01-10,,Active,64385,True,66,taylor.moore80@dundermifflin.com
+81,Blake,Haddad,5,Accounting,Senior Accountant,3,2010-03-28,,Active,65854,True,35,blake.haddad81@dundermifflin.com
+82,Sydney,Rodriguez,2,Accounting,Senior Accountant,3,2016-05-21,,Active,66496,True,29,sydney.rodriguez82@dundermifflin.com
+83,Skyler,Bauer,1,Sales,Sales Representative,3,2013-09-09,,Active,70888,True,1,skyler.bauer83@dundermifflin.com
+84,Bianca,Novak,7,Sales,Sales Representative,3,2017-11-12,,Active,63941,True,39,bianca.novak84@dundermifflin.com
+85,Sofia,Chen,1,Administration,Receptionist,1,2011-03-06,,Active,28720,False,1,sofia.chen85@dundermifflin.com
+86,Kai,Gonzalez,9,Sales,Junior Sales Rep,2,2013-10-13,,Active,31416,False,36,kai.gonzalez86@dundermifflin.com
+87,Priya,Martinez,5,Warehouse,Warehouse Foreman,3,2016-03-21,,Active,38472,True,35,priya.martinez87@dundermifflin.com
+88,Sydney,Gonzalez,6,Warehouse,Warehouse Foreman,3,2015-03-24,,Active,46988,True,43,sydney.gonzalez88@dundermifflin.com
+89,Diego,Martinez,7,Warehouse,Warehouse Associate,1,2015-12-03,,Active,30249,False,39,diego.martinez89@dundermifflin.com
+90,Quinn,Jackson,1,Warehouse,Warehouse Foreman,3,2013-07-29,,Active,52318,True,1,quinn.jackson90@dundermifflin.com
+91,Sage,Patel,4,Human Resources,HR Representative,3,2011-04-23,,Active,70294,True,19,sage.patel91@dundermifflin.com
+92,Micah,Novak,9,Sales,Sales Representative,3,2013-11-22,,Active,70691,True,36,micah.novak92@dundermifflin.com
+93,Morgan,Cohen,2,Customer Service,Customer Service Rep,2,2011-09-15,,Active,32499,False,29,morgan.cohen93@dundermifflin.com
+94,Nina,Miller,8,Sales,Junior Sales Rep,2,2010-12-19,,Active,49201,False,34,nina.miller94@dundermifflin.com
+95,Hugo,Yamamoto,8,Human Resources,HR Representative,3,2017-12-14,,Active,55711,True,34,hugo.yamamoto95@dundermifflin.com
+96,Nadia,Miller,2,Customer Service,Customer Service Rep,2,2017-02-26,,Active,44103,False,29,nadia.miller96@dundermifflin.com
+97,Blake,Haddad,10,Human Resources,HR Representative,3,2011-05-01,,Active,76739,True,66,blake.haddad97@dundermifflin.com
+98,Riley,Bauer,5,Customer Service,Customer Service Rep,2,2010-07-14,,Active,49796,False,35,riley.bauer98@dundermifflin.com
+99,Ivan,Thomas,4,Warehouse,Warehouse Foreman,3,2009-10-12,,Active,57138,True,19,ivan.thomas99@dundermifflin.com
+100,Zane,Petrov,8,Human Resources,HR Representative,3,2011-05-06,,Active,54232,True,34,zane.petrov100@dundermifflin.com
+101,Jamie,Yamamoto,9,Accounting,Staff Accountant,2,2017-05-21,,Active,40741,False,36,jamie.yamamoto101@dundermifflin.com
+102,Ivan,Davis,2,Warehouse,Warehouse Associate,1,2013-05-27,,Active,28680,False,29,ivan.davis102@dundermifflin.com
+103,Devon,Okafor,2,Warehouse,Warehouse Associate,1,2009-02-20,,Active,31367,False,29,devon.okafor103@dundermifflin.com
+104,Yara,Reyes,1,Sales,Sales Representative,3,2012-07-29,,Active,75108,True,1,yara.reyes104@dundermifflin.com
+105,Kai,Smith,9,Human Resources,HR Representative,3,2017-11-24,,Active,51362,True,36,kai.smith105@dundermifflin.com
+106,Reese,Moore,4,Administration,Receptionist,1,2018-09-20,,Active,31099,False,19,reese.moore106@dundermifflin.com
+107,Casey,Anderson,6,Customer Service,Customer Service Rep,2,2009-01-14,,Active,37911,False,43,casey.anderson107@dundermifflin.com
+108,Casey,Rossi,8,Administration,Receptionist,1,2009-01-07,,Active,30504,False,34,casey.rossi108@dundermifflin.com
+109,Zane,Reyes,2,Sales,Junior Sales Rep,2,2018-07-21,,Active,43882,False,29,zane.reyes109@dundermifflin.com
+110,Sofia,Davis,9,Human Resources,HR Representative,3,2018-09-11,,Active,58964,True,36,sofia.davis110@dundermifflin.com
+111,Jamie,Johnson,3,Sales,Sales Representative,3,2010-10-12,,Active,48756,True,48,jamie.johnson111@dundermifflin.com
+112,Sydney,Williams,1,Accounting,Senior Accountant,3,2012-04-05,,Active,64768,True,1,sydney.williams112@dundermifflin.com
+113,Sofia,Costa,9,Administration,Office Administrator,2,2014-06-13,,Active,47862,False,36,sofia.costa113@dundermifflin.com
+114,Priya,Brown,10,Customer Service,Customer Service Rep,2,2010-06-22,,Active,32918,False,66,priya.brown114@dundermifflin.com
+115,Cameron,Brown,4,Accounting,Staff Accountant,2,2011-11-11,,Active,38937,False,19,cameron.brown115@dundermifflin.com
+116,Nadia,Smith,3,Sales,Sales Representative,3,2018-06-03,,Active,46433,True,48,nadia.smith116@dundermifflin.com
+117,Morgan,Singh,2,Accounting,Staff Accountant,2,2017-01-13,,Active,43114,False,29,morgan.singh117@dundermifflin.com
+118,Cameron,Okafor,5,Human Resources,HR Representative,3,2010-04-06,,Active,73629,True,35,cameron.okafor118@dundermifflin.com
+119,Reese,Thomas,10,Customer Service,Customer Service Rep,2,2013-02-26,,Active,38663,False,66,reese.thomas119@dundermifflin.com
+120,Riley,Jackson,10,Administration,Receptionist,1,2013-11-04,,Active,39317,False,66,riley.jackson120@dundermifflin.com
+121,Riley,Yamamoto,6,Sales,Junior Sales Rep,2,2016-02-08,,Active,39975,False,43,riley.yamamoto121@dundermifflin.com
+122,Hayden,Okafor,8,Customer Service,Customer Service Rep,2,2009-04-16,,Active,32419,False,34,hayden.okafor122@dundermifflin.com
+123,Nadia,Gonzalez,5,Administration,Office Administrator,2,2009-10-16,,Active,51937,False,35,nadia.gonzalez123@dundermifflin.com
+124,Sage,Wilson,7,Accounting,Staff Accountant,2,2013-04-11,,Active,45405,False,39,sage.wilson124@dundermifflin.com
+125,Nadia,Gonzalez,10,Customer Service,Customer Service Rep,2,2016-06-01,,Active,34516,False,66,nadia.gonzalez125@dundermifflin.com
+126,Priya,Patel,6,Customer Service,Customer Service Rep,2,2015-04-18,,Active,49498,False,43,priya.patel126@dundermifflin.com
+127,Bianca,Costa,10,Administration,Receptionist,1,2013-11-20,,Active,26826,False,66,bianca.costa127@dundermifflin.com
+128,Tomas,Anderson,3,Accounting,Senior Accountant,3,2013-12-25,,Active,69152,True,48,tomas.anderson128@dundermifflin.com
+129,Taylor,Williams,2,Administration,Office Administrator,2,2016-01-30,,Active,37925,False,29,taylor.williams129@dundermifflin.com
+130,Ivan,Flores,10,Accounting,Staff Accountant,2,2018-09-11,,Active,38326,False,66,ivan.flores130@dundermifflin.com
+131,Jamie,Martinez,5,Warehouse,Warehouse Foreman,3,2012-12-06,,Active,32487,True,35,jamie.martinez131@dundermifflin.com
+132,Raj,Moore,2,Administration,Receptionist,1,2011-04-02,,Active,31932,False,29,raj.moore132@dundermifflin.com
+133,Leah,Anderson,6,Human Resources,HR Representative,3,2009-09-27,2014-07-01,Terminated,68364,True,43,leah.anderson133@dundermifflin.com
+134,Fatima,Miller,8,Warehouse,Warehouse Associate,1,2014-09-25,,Active,24339,False,34,fatima.miller134@dundermifflin.com
+135,Sofia,Dubois,9,Accounting,Senior Accountant,3,2012-06-10,,Active,59215,True,36,sofia.dubois135@dundermifflin.com
+136,Tomas,Singh,8,Accounting,Staff Accountant,2,2018-06-07,,Active,44916,False,34,tomas.singh136@dundermifflin.com
+137,Sydney,Flores,3,Accounting,Staff Accountant,2,2009-08-04,,Active,51660,False,48,sydney.flores137@dundermifflin.com
+138,Raj,Chen,10,Accounting,Staff Accountant,2,2011-09-24,,Active,37313,False,66,raj.chen138@dundermifflin.com
+139,Yara,Okafor,3,Administration,Office Administrator,2,2013-05-16,,Active,38727,False,48,yara.okafor139@dundermifflin.com
+140,Skyler,Singh,5,Sales,Junior Sales Rep,2,2013-07-15,,Active,47492,False,35,skyler.singh140@dundermifflin.com
+141,Leah,Novak,2,Warehouse,Warehouse Foreman,3,2010-06-19,,Active,47129,True,29,leah.novak141@dundermifflin.com
+142,Casey,Costa,2,Customer Service,Customer Service Rep,2,2015-01-23,,Active,37689,False,29,casey.costa142@dundermifflin.com
+143,Casey,Smith,10,Customer Service,Customer Service Rep,2,2014-12-03,,Active,40791,False,66,casey.smith143@dundermifflin.com
+144,Quinn,Gonzalez,8,Accounting,Staff Accountant,2,2016-12-15,2021-07-01,Terminated,51020,False,34,quinn.gonzalez144@dundermifflin.com
+145,Riley,Chen,4,Warehouse,Warehouse Associate,1,2013-04-09,,Active,24580,False,19,riley.chen145@dundermifflin.com
+146,Priya,Novak,2,Customer Service,Customer Service Rep,2,2009-03-10,,Active,48231,False,29,priya.novak146@dundermifflin.com
+147,Wei,Flores,4,Human Resources,HR Representative,3,2013-10-10,,Active,58733,True,19,wei.flores147@dundermifflin.com
+148,Taylor,Brown,8,Warehouse,Warehouse Foreman,3,2013-11-08,,Active,43756,True,34,taylor.brown148@dundermifflin.com
+149,Hayden,Yamamoto,3,Administration,Office Administrator,2,2017-10-13,,Active,51101,False,48,hayden.yamamoto149@dundermifflin.com
+150,Priya,Wilson,10,Administration,Office Administrator,2,2018-10-17,2020-02-26,Terminated,37319,False,66,priya.wilson150@dundermifflin.com
+151,Raj,Reyes,2,Warehouse,Warehouse Foreman,3,2014-04-08,,Active,52881,True,29,raj.reyes151@dundermifflin.com
+152,Priya,Williams,3,Human Resources,HR Representative,3,2016-08-28,,Active,66016,True,48,priya.williams152@dundermifflin.com
+153,Sydney,Johnson,5,Warehouse,Warehouse Foreman,3,2018-04-19,2021-04-17,Terminated,42567,True,35,sydney.johnson153@dundermifflin.com
+154,Leah,Novak,5,Human Resources,HR Representative,3,2012-05-19,,Active,51140,True,35,leah.novak154@dundermifflin.com
+155,Devon,Johnson,8,Warehouse,Warehouse Foreman,3,2009-11-30,,Active,46256,True,34,devon.johnson155@dundermifflin.com
+156,Nina,Patel,2,Warehouse,Warehouse Associate,1,2016-04-02,2021-04-01,Terminated,25873,False,29,nina.patel156@dundermifflin.com
+157,Wei,Martinez,7,Administration,Office Administrator,2,2016-07-02,,Active,49618,False,39,wei.martinez157@dundermifflin.com
+158,Parker,Novak,9,Administration,Office Administrator,2,2013-01-13,,Active,38044,False,36,parker.novak158@dundermifflin.com
+159,Avery,Rossi,1,Administration,Office Administrator,2,2018-01-02,,Active,32124,False,1,avery.rossi159@dundermifflin.com
+160,Kai,Dubois,5,Human Resources,HR Representative,3,2012-07-25,,Active,59995,True,35,kai.dubois160@dundermifflin.com
+161,Avery,Dubois,1,Sales,Junior Sales Rep,2,2010-06-06,,Active,46047,False,1,avery.dubois161@dundermifflin.com
+162,Drew,Nguyen,8,Warehouse,Warehouse Foreman,3,2015-06-16,,Active,42155,True,34,drew.nguyen162@dundermifflin.com
+163,Sage,Smith,8,Warehouse,Warehouse Associate,1,2015-11-15,,Active,33038,False,34,sage.smith163@dundermifflin.com
+164,Zane,Yamamoto,1,Warehouse,Warehouse Associate,1,2009-05-19,,Active,26575,False,1,zane.yamamoto164@dundermifflin.com
+165,Devon,Martinez,1,Warehouse,Warehouse Foreman,3,2013-04-30,,Active,45728,True,1,devon.martinez165@dundermifflin.com
+166,Drew,Chen,6,Administration,Office Administrator,2,2012-09-29,,Active,32932,False,43,drew.chen166@dundermifflin.com
+167,Avery,Miller,4,Accounting,Staff Accountant,2,2015-06-06,,Active,50112,False,19,avery.miller167@dundermifflin.com
+168,Micah,Ali,5,Accounting,Senior Accountant,3,2012-08-06,,Active,75066,True,35,micah.ali168@dundermifflin.com
+169,Wei,Martinez,9,Customer Service,Customer Service Rep,2,2010-10-31,,Active,38104,False,36,wei.martinez169@dundermifflin.com
+170,Sage,Gonzalez,9,Accounting,Staff Accountant,2,2017-11-02,,Active,44522,False,36,sage.gonzalez170@dundermifflin.com
+171,Hugo,Moore,1,Customer Service,Customer Service Rep,2,2017-06-19,,Active,36073,False,1,hugo.moore171@dundermifflin.com
+172,Taylor,Martinez,8,Accounting,Staff Accountant,2,2013-03-20,,Active,45938,False,34,taylor.martinez172@dundermifflin.com
+173,Reese,Johnson,1,Human Resources,HR Representative,3,2018-05-04,,Active,60713,True,1,reese.johnson173@dundermifflin.com
+174,Diego,Moore,4,Sales,Junior Sales Rep,2,2016-10-20,,Active,43625,False,19,diego.moore174@dundermifflin.com
+175,Alex,Lopez,1,Warehouse,Warehouse Associate,1,2017-09-26,,Active,27832,False,1,alex.lopez175@dundermifflin.com
+176,Cameron,Nguyen,1,Customer Service,Customer Service Rep,2,2018-07-21,,Active,38558,False,1,cameron.nguyen176@dundermifflin.com
+177,Cameron,Martinez,10,Administration,Office Administrator,2,2015-09-02,,Active,32114,False,66,cameron.martinez177@dundermifflin.com
+178,Quinn,Rodriguez,3,Human Resources,HR Representative,3,2011-07-12,,Active,52170,True,48,quinn.rodriguez178@dundermifflin.com
+179,Yara,Novak,2,Warehouse,Warehouse Associate,1,2016-12-16,2018-06-30,Terminated,27157,False,29,yara.novak179@dundermifflin.com
+180,Alex,Bauer,5,Administration,Receptionist,1,2016-12-26,2018-07-17,Terminated,21843,False,35,alex.bauer180@dundermifflin.com
+181,Morgan,Kim,2,Warehouse,Warehouse Associate,1,2016-07-27,,Active,28269,False,29,morgan.kim181@dundermifflin.com
+182,Kai,Cohen,5,Accounting,Senior Accountant,3,2014-05-04,,Active,55595,True,35,kai.cohen182@dundermifflin.com
+183,Sydney,Bauer,1,Accounting,Staff Accountant,2,2013-05-13,,Active,60665,False,1,sydney.bauer183@dundermifflin.com
+184,Ivan,Petrov,4,Sales,Sales Representative,3,2017-05-18,,Active,63834,True,19,ivan.petrov184@dundermifflin.com
+185,Blake,Thomas,3,Accounting,Staff Accountant,2,2012-08-03,2015-03-23,Terminated,49558,False,48,blake.thomas185@dundermifflin.com
+186,Fatima,Miller,3,Warehouse,Warehouse Associate,1,2012-05-11,,Active,35515,False,48,fatima.miller186@dundermifflin.com
+187,Reese,Garcia,7,Human Resources,HR Representative,3,2010-02-02,,Active,61303,True,39,reese.garcia187@dundermifflin.com
+188,Diego,Williams,7,Sales,Junior Sales Rep,2,2017-02-20,,Active,37498,False,39,diego.williams188@dundermifflin.com
+189,Alex,Kim,5,Sales,Junior Sales Rep,2,2009-01-28,,Active,45072,False,35,alex.kim189@dundermifflin.com
+190,Zane,Thomas,10,Administration,Receptionist,1,2013-07-27,,Active,29293,False,66,zane.thomas190@dundermifflin.com
+191,Micah,Garcia,6,Sales,Sales Representative,3,2015-12-10,,Active,46721,True,43,micah.garcia191@dundermifflin.com
+192,Micah,Miller,9,Sales,Sales Representative,3,2016-07-25,,Active,60327,True,36,micah.miller192@dundermifflin.com
+193,Avery,Kim,9,Customer Service,Customer Service Rep,2,2013-09-04,,Active,48498,False,36,avery.kim193@dundermifflin.com
+194,Sage,Hernandez,7,Human Resources,HR Representative,3,2011-05-21,,Active,58526,True,39,sage.hernandez194@dundermifflin.com
+195,Hugo,Smith,2,Customer Service,Customer Service Rep,2,2018-06-29,,Active,37741,False,29,hugo.smith195@dundermifflin.com
+196,Leah,Flores,9,Administration,Receptionist,1,2012-05-17,,Active,31086,False,36,leah.flores196@dundermifflin.com
+197,Cameron,Davis,4,Warehouse,Warehouse Foreman,3,2012-02-19,,Active,51441,True,19,cameron.davis197@dundermifflin.com
+198,Quinn,Jackson,3,Accounting,Staff Accountant,2,2010-03-10,,Active,47454,False,48,quinn.jackson198@dundermifflin.com
+199,Morgan,Haddad,2,Warehouse,Warehouse Foreman,3,2012-06-03,,Active,61221,True,29,morgan.haddad199@dundermifflin.com
+200,Omar,Flores,3,Warehouse,Warehouse Associate,1,2011-12-18,,Active,26635,False,48,omar.flores200@dundermifflin.com
+201,Peyton,Singh,7,Sales,Sales Representative,3,2014-05-11,,Active,60299,True,39,peyton.singh201@dundermifflin.com
+202,Fatima,Bauer,5,Human Resources,HR Representative,3,2010-02-11,,Active,64412,True,35,fatima.bauer202@dundermifflin.com
+203,Sage,Chen,5,Customer Service,Customer Service Rep,2,2015-01-22,,Active,38499,False,35,sage.chen203@dundermifflin.com
+204,Rowan,Williams,3,Customer Service,Customer Service Rep,2,2016-11-26,,Active,42110,False,48,rowan.williams204@dundermifflin.com
+205,Jamie,Lopez,3,Sales,Sales Representative,3,2012-02-10,,Active,65868,True,48,jamie.lopez205@dundermifflin.com
+206,Morgan,Jackson,8,Accounting,Staff Accountant,2,2011-06-07,,Active,42878,False,34,morgan.jackson206@dundermifflin.com
+207,Avery,Jackson,6,Accounting,Senior Accountant,3,2013-09-15,,Active,62590,True,43,avery.jackson207@dundermifflin.com
+208,Emerson,Brown,3,Sales,Sales Representative,3,2009-05-29,,Active,46038,True,48,emerson.brown208@dundermifflin.com
+209,Riley,Lopez,2,Accounting,Staff Accountant,2,2015-10-07,,Active,48765,False,29,riley.lopez209@dundermifflin.com
+210,Nadia,Dubois,8,Sales,Junior Sales Rep,2,2015-05-09,2022-02-28,Terminated,46857,False,34,nadia.dubois210@dundermifflin.com
+211,Sage,Thomas,5,Accounting,Staff Accountant,2,2017-11-19,,Active,42048,False,35,sage.thomas211@dundermifflin.com
+212,Blake,Miller,1,Customer Service,Customer Service Rep,2,2018-01-13,,Active,46908,False,1,blake.miller212@dundermifflin.com
+213,Blake,Haddad,2,Warehouse,Warehouse Foreman,3,2011-07-27,,Active,51958,True,29,blake.haddad213@dundermifflin.com
+214,Jordan,Ali,2,Sales,Junior Sales Rep,2,2018-06-01,,Active,60045,False,29,jordan.ali214@dundermifflin.com
+215,Ivan,Brown,8,Accounting,Senior Accountant,3,2015-01-21,,Active,56706,True,34,ivan.brown215@dundermifflin.com
+216,Peyton,Davis,1,Warehouse,Warehouse Associate,1,2016-06-05,,Active,32784,False,1,peyton.davis216@dundermifflin.com
+217,Quinn,Patel,1,Human Resources,HR Representative,3,2013-08-15,,Active,47032,True,1,quinn.patel217@dundermifflin.com
+218,Taylor,Flores,9,Sales,Junior Sales Rep,2,2018-10-22,,Active,58566,False,36,taylor.flores218@dundermifflin.com
+219,Devon,Patel,8,Warehouse,Warehouse Foreman,3,2010-09-22,,Active,49241,True,34,devon.patel219@dundermifflin.com
+220,Morgan,Jackson,5,Accounting,Senior Accountant,3,2010-08-21,,Active,68420,True,35,morgan.jackson220@dundermifflin.com
+221,Jamie,Martinez,7,Administration,Receptionist,1,2010-03-31,,Active,30819,False,39,jamie.martinez221@dundermifflin.com
+222,Bianca,Cohen,3,Sales,Sales Representative,3,2018-02-18,,Active,57085,True,48,bianca.cohen222@dundermifflin.com
+223,Avery,Costa,10,Customer Service,Customer Service Rep,2,2009-02-13,,Active,24301,False,66,avery.costa223@dundermifflin.com
+224,Jamie,Costa,7,Warehouse,Warehouse Foreman,3,2009-10-15,,Active,44531,True,39,jamie.costa224@dundermifflin.com
+225,Omar,Rossi,9,Warehouse,Warehouse Associate,1,2012-09-19,,Active,29519,False,36,omar.rossi225@dundermifflin.com
+226,Bianca,Patel,9,Accounting,Staff Accountant,2,2014-07-14,,Active,47015,False,36,bianca.patel226@dundermifflin.com
+227,Parker,Reyes,10,Administration,Receptionist,1,2018-03-25,,Active,30065,False,66,parker.reyes227@dundermifflin.com
+228,Priya,Nguyen,4,Sales,Junior Sales Rep,2,2014-12-23,,Active,39122,False,19,priya.nguyen228@dundermifflin.com
+229,Fatima,Jackson,2,Human Resources,HR Representative,3,2015-11-11,,Active,65123,True,29,fatima.jackson229@dundermifflin.com
+230,Quinn,Kim,1,Administration,Office Administrator,2,2017-02-04,,Active,41730,False,1,quinn.kim230@dundermifflin.com
+231,Peyton,Lopez,6,Sales,Junior Sales Rep,2,2010-01-24,,Active,48972,False,43,peyton.lopez231@dundermifflin.com
+232,Leah,Rossi,7,Customer Service,Customer Service Rep,2,2017-02-22,,Active,52066,False,39,leah.rossi232@dundermifflin.com
+233,Ivan,Anderson,1,Human Resources,HR Representative,3,2014-11-16,,Active,68135,True,1,ivan.anderson233@dundermifflin.com
+234,Ivan,Flores,1,Customer Service,Customer Service Rep,2,2015-08-04,,Active,36569,False,1,ivan.flores234@dundermifflin.com
+235,Hayden,Jackson,10,Human Resources,HR Representative,3,2014-07-07,,Active,64185,True,66,hayden.jackson235@dundermifflin.com
+236,Riley,Okafor,8,Human Resources,HR Representative,3,2011-08-20,2016-07-14,Terminated,51484,True,34,riley.okafor236@dundermifflin.com
+237,Omar,Bauer,8,Accounting,Staff Accountant,2,2010-05-19,,Active,40956,False,34,omar.bauer237@dundermifflin.com
+238,Parker,Singh,1,Sales,Junior Sales Rep,2,2017-06-23,,Active,47192,False,1,parker.singh238@dundermifflin.com
+239,Drew,Yamamoto,7,Administration,Office Administrator,2,2013-07-05,,Active,37630,False,39,drew.yamamoto239@dundermifflin.com
+240,Ivan,Martinez,9,Customer Service,Customer Service Rep,2,2015-10-25,,Active,47826,False,36,ivan.martinez240@dundermifflin.com
+241,Devon,Moore,9,Customer Service,Customer Service Rep,2,2012-02-07,2016-03-11,Terminated,40492,False,36,devon.moore241@dundermifflin.com
+242,Skyler,Moore,5,Customer Service,Customer Service Rep,2,2017-02-07,,Active,35432,False,35,skyler.moore242@dundermifflin.com
+243,Fatima,Nguyen,2,Administration,Office Administrator,2,2014-06-27,,Active,35111,False,29,fatima.nguyen243@dundermifflin.com
+244,Bianca,Gonzalez,4,Administration,Office Administrator,2,2010-07-20,,Active,33280,False,19,bianca.gonzalez244@dundermifflin.com
+245,Sydney,Singh,9,Human Resources,HR Representative,3,2017-10-21,,Active,75205,True,36,sydney.singh245@dundermifflin.com
+246,Priya,Okafor,9,Customer Service,Customer Service Rep,2,2015-12-30,,Active,43101,False,36,priya.okafor246@dundermifflin.com
+247,Drew,Rossi,6,Warehouse,Warehouse Associate,1,2010-10-26,,Active,25475,False,43,drew.rossi247@dundermifflin.com
+248,Quinn,Moore,5,Sales,Sales Representative,3,2010-12-31,,Active,59353,True,35,quinn.moore248@dundermifflin.com
+249,Devon,Moore,5,Sales,Sales Representative,3,2009-01-08,,Active,61935,True,35,devon.moore249@dundermifflin.com
+250,Nadia,Reyes,10,Warehouse,Warehouse Associate,1,2009-09-01,,Active,28847,False,66,nadia.reyes250@dundermifflin.com
+251,Omar,Martinez,8,Sales,Junior Sales Rep,2,2016-03-06,,Active,42499,False,34,omar.martinez251@dundermifflin.com
+252,Tomas,Chen,2,Sales,Junior Sales Rep,2,2017-02-07,,Active,41397,False,29,tomas.chen252@dundermifflin.com
+253,Parker,Novak,4,Customer Service,Customer Service Rep,2,2011-01-04,,Active,48085,False,19,parker.novak253@dundermifflin.com
+254,Diego,Haddad,3,Sales,Sales Representative,3,2017-09-04,,Active,70285,True,48,diego.haddad254@dundermifflin.com
+255,Drew,Johnson,3,Accounting,Staff Accountant,2,2015-03-20,,Active,52120,False,48,drew.johnson255@dundermifflin.com
+256,Tomas,Flores,1,Human Resources,HR Representative,3,2010-10-07,,Active,68839,True,1,tomas.flores256@dundermifflin.com
+257,Fatima,Petrov,7,Human Resources,HR Representative,3,2017-03-12,,Active,62080,True,39,fatima.petrov257@dundermifflin.com
+258,Zane,Bauer,2,Customer Service,Customer Service Rep,2,2017-11-23,,Active,42546,False,29,zane.bauer258@dundermifflin.com
+259,Taylor,Rodriguez,6,Sales,Junior Sales Rep,2,2018-11-01,,Active,43538,False,43,taylor.rodriguez259@dundermifflin.com
+260,Wei,Singh,9,Sales,Sales Representative,3,2010-09-30,,Active,57985,True,36,wei.singh260@dundermifflin.com
+261,Sofia,Kim,2,Administration,Receptionist,1,2013-07-17,,Active,36305,False,29,sofia.kim261@dundermifflin.com
+262,Ivan,Chen,3,Warehouse,Warehouse Foreman,3,2016-04-22,,Active,48592,True,48,ivan.chen262@dundermifflin.com
+263,Rowan,Lopez,5,Human Resources,HR Representative,3,2015-03-23,,Active,56718,True,35,rowan.lopez263@dundermifflin.com
+264,Nina,Garcia,5,Human Resources,HR Representative,3,2011-05-16,,Active,70584,True,35,nina.garcia264@dundermifflin.com
+265,Taylor,Anderson,2,Sales,Junior Sales Rep,2,2011-12-20,,Active,41598,False,29,taylor.anderson265@dundermifflin.com
+266,Bianca,Anderson,3,Accounting,Staff Accountant,2,2017-01-12,,Active,33526,False,48,bianca.anderson266@dundermifflin.com
+267,Drew,Jackson,8,Accounting,Senior Accountant,3,2012-05-22,,Active,51014,True,34,drew.jackson267@dundermifflin.com
+268,Ivan,Kim,9,Customer Service,Customer Service Rep,2,2015-01-24,,Active,38231,False,36,ivan.kim268@dundermifflin.com
+269,Jordan,Bauer,1,Customer Service,Customer Service Rep,2,2012-12-04,,Active,39842,False,1,jordan.bauer269@dundermifflin.com
+270,Leah,Brown,3,Warehouse,Warehouse Associate,1,2010-09-18,,Active,28466,False,48,leah.brown270@dundermifflin.com
+271,Blake,Miller,6,Accounting,Staff Accountant,2,2015-09-30,,Active,42242,False,43,blake.miller271@dundermifflin.com
+272,Alex,Rodriguez,7,Warehouse,Warehouse Associate,1,2012-12-16,,Active,30378,False,39,alex.rodriguez272@dundermifflin.com
+273,Morgan,Jackson,10,Administration,Office Administrator,2,2010-09-06,,Active,43984,False,66,morgan.jackson273@dundermifflin.com
+274,Rowan,Chen,9,Warehouse,Warehouse Associate,1,2014-04-12,,Active,34322,False,36,rowan.chen274@dundermifflin.com
+275,Hayden,Rodriguez,2,Administration,Receptionist,1,2017-10-23,,Active,29494,False,29,hayden.rodriguez275@dundermifflin.com
+276,Yara,Davis,1,Customer Service,Customer Service Rep,2,2015-09-09,,Active,35807,False,1,yara.davis276@dundermifflin.com
+277,Cameron,Bauer,10,Warehouse,Warehouse Associate,1,2012-11-02,,Active,27163,False,66,cameron.bauer277@dundermifflin.com
+278,Morgan,Singh,8,Administration,Office Administrator,2,2017-10-13,,Active,28900,False,34,morgan.singh278@dundermifflin.com
+279,Yara,Yamamoto,1,Sales,Sales Representative,3,2011-06-05,,Active,63553,True,1,yara.yamamoto279@dundermifflin.com
+280,Jordan,Rodriguez,3,Administration,Receptionist,1,2014-11-23,,Active,27599,False,48,jordan.rodriguez280@dundermifflin.com
+281,Bianca,Petrov,3,Customer Service,Customer Service Rep,2,2009-09-30,,Active,34312,False,48,bianca.petrov281@dundermifflin.com
+282,Emerson,Lopez,7,Customer Service,Customer Service Rep,2,2009-04-18,,Active,42397,False,39,emerson.lopez282@dundermifflin.com
+283,Rowan,Garcia,9,Customer Service,Customer Service Rep,2,2012-05-28,,Active,50328,False,36,rowan.garcia283@dundermifflin.com
+284,Yara,Johnson,1,Human Resources,HR Representative,3,2013-01-17,,Active,56815,True,1,yara.johnson284@dundermifflin.com
+285,Priya,Anderson,6,Warehouse,Warehouse Foreman,3,2009-09-23,,Active,48032,True,43,priya.anderson285@dundermifflin.com
+286,Nina,Kim,8,Accounting,Staff Accountant,2,2015-01-25,,Active,42687,False,34,nina.kim286@dundermifflin.com
+287,Nina,Wilson,8,Warehouse,Warehouse Associate,1,2018-02-22,,Active,26059,False,34,nina.wilson287@dundermifflin.com
+288,Fatima,Yamamoto,6,Customer Service,Customer Service Rep,2,2015-01-06,,Active,38042,False,43,fatima.yamamoto288@dundermifflin.com
+289,Kai,Hernandez,3,Human Resources,HR Representative,3,2013-08-31,,Active,67032,True,48,kai.hernandez289@dundermifflin.com
+290,Raj,Johnson,4,Sales,Junior Sales Rep,2,2012-05-20,,Active,47412,False,19,raj.johnson290@dundermifflin.com
+291,Raj,Smith,8,Administration,Office Administrator,2,2012-10-11,,Active,41668,False,34,raj.smith291@dundermifflin.com
+292,Quinn,Singh,10,Sales,Sales Representative,3,2017-05-09,,Active,67071,True,66,quinn.singh292@dundermifflin.com
+293,Omar,Bauer,9,Sales,Junior Sales Rep,2,2015-08-03,,Active,59570,False,36,omar.bauer293@dundermifflin.com
+294,Taylor,Hernandez,5,Customer Service,Customer Service Rep,2,2012-03-26,,Active,30060,False,35,taylor.hernandez294@dundermifflin.com
+295,Sydney,Yamamoto,10,Accounting,Senior Accountant,3,2018-01-31,,Active,53575,True,66,sydney.yamamoto295@dundermifflin.com
+296,Nina,Reyes,10,Administration,Office Administrator,2,2013-02-21,,Active,43156,False,66,nina.reyes296@dundermifflin.com
+297,Emerson,Martinez,5,Customer Service,Customer Service Rep,2,2013-04-16,,Active,35226,False,35,emerson.martinez297@dundermifflin.com
+298,Skyler,Garcia,9,Warehouse,Warehouse Foreman,3,2014-09-25,,Active,55066,True,36,skyler.garcia298@dundermifflin.com
+299,Parker,Novak,7,Administration,Receptionist,1,2015-11-08,,Active,29081,False,39,parker.novak299@dundermifflin.com
+300,Blake,Jackson,3,Customer Service,Customer Service Rep,2,2014-07-30,,Active,37442,False,48,blake.jackson300@dundermifflin.com
+301,Omar,Cohen,9,Sales,Sales Representative,3,2017-07-01,,Active,62511,True,36,omar.cohen301@dundermifflin.com
+302,Peyton,Garcia,10,Administration,Receptionist,1,2013-03-12,,Active,25740,False,66,peyton.garcia302@dundermifflin.com
+303,Hugo,Davis,4,Customer Service,Customer Service Rep,2,2014-11-10,,Active,52542,False,19,hugo.davis303@dundermifflin.com
+304,Wei,Dubois,4,Sales,Junior Sales Rep,2,2010-04-10,,Active,40243,False,19,wei.dubois304@dundermifflin.com
+305,Jordan,Rodriguez,1,Warehouse,Warehouse Associate,1,2013-08-01,,Active,38524,False,1,jordan.rodriguez305@dundermifflin.com
+306,Fatima,Kim,2,Sales,Sales Representative,3,2015-11-15,,Active,57912,True,29,fatima.kim306@dundermifflin.com
+307,Tomas,Flores,3,Administration,Office Administrator,2,2017-09-07,2018-04-06,Terminated,42270,False,48,tomas.flores307@dundermifflin.com
+308,Kai,Williams,9,Human Resources,HR Representative,3,2009-11-02,,Active,59062,True,36,kai.williams308@dundermifflin.com
+309,Taylor,Davis,6,Warehouse,Warehouse Foreman,3,2009-04-26,,Active,46653,True,43,taylor.davis309@dundermifflin.com
+310,Nina,Davis,10,Accounting,Staff Accountant,2,2017-11-29,,Active,54043,False,66,nina.davis310@dundermifflin.com
+311,Riley,Dubois,2,Human Resources,HR Representative,3,2012-10-02,,Active,60992,True,29,riley.dubois311@dundermifflin.com
+312,Reese,Kim,6,Administration,Office Administrator,2,2015-01-09,,Active,48673,False,43,reese.kim312@dundermifflin.com
+313,Leah,Jackson,8,Warehouse,Warehouse Foreman,3,2014-05-08,,Active,38497,True,34,leah.jackson313@dundermifflin.com
+314,Casey,Brown,4,Accounting,Staff Accountant,2,2011-09-22,,Active,41564,False,19,casey.brown314@dundermifflin.com
+315,Tomas,Cohen,4,Accounting,Senior Accountant,3,2017-12-26,,Active,48480,True,19,tomas.cohen315@dundermifflin.com
+316,Sofia,Rodriguez,3,Accounting,Senior Accountant,3,2015-01-26,,Active,51715,True,48,sofia.rodriguez316@dundermifflin.com
+317,Sage,Johnson,2,Sales,Sales Representative,3,2015-05-07,2016-11-25,Terminated,55315,True,29,sage.johnson317@dundermifflin.com
+318,Skyler,Flores,6,Customer Service,Customer Service Rep,2,2016-04-10,,Active,43516,False,43,skyler.flores318@dundermifflin.com
+319,Sofia,Reyes,10,Customer Service,Customer Service Rep,2,2012-10-07,,Active,48319,False,66,sofia.reyes319@dundermifflin.com
+320,Morgan,Jackson,6,Warehouse,Warehouse Associate,1,2016-08-13,,Active,31940,False,43,morgan.jackson320@dundermifflin.com
+321,Leah,Garcia,4,Warehouse,Warehouse Associate,1,2013-07-11,,Active,33922,False,19,leah.garcia321@dundermifflin.com
+322,Jamie,Moore,4,Accounting,Senior Accountant,3,2010-11-24,,Active,69930,True,19,jamie.moore322@dundermifflin.com
+323,Hugo,Singh,6,Human Resources,HR Representative,3,2016-12-28,,Active,48675,True,43,hugo.singh323@dundermifflin.com
+324,Jordan,Nguyen,1,Customer Service,Customer Service Rep,2,2009-08-19,,Active,34010,False,1,jordan.nguyen324@dundermifflin.com
+325,Emerson,Bauer,10,Customer Service,Customer Service Rep,2,2014-09-10,2020-01-23,Terminated,49537,False,66,emerson.bauer325@dundermifflin.com
+326,Priya,Cohen,3,Human Resources,HR Representative,3,2018-05-04,,Active,75675,True,48,priya.cohen326@dundermifflin.com
+327,Emerson,Haddad,2,Administration,Receptionist,1,2018-03-31,,Active,29482,False,29,emerson.haddad327@dundermifflin.com
+328,Bianca,Thomas,6,Human Resources,HR Representative,3,2014-05-10,,Active,61982,True,43,bianca.thomas328@dundermifflin.com
+329,Peyton,Rossi,5,Accounting,Staff Accountant,2,2011-03-11,,Active,41926,False,35,peyton.rossi329@dundermifflin.com
+330,Peyton,Okafor,5,Customer Service,Customer Service Rep,2,2010-11-09,,Active,33825,False,35,peyton.okafor330@dundermifflin.com
+331,Drew,Chen,1,Warehouse,Warehouse Foreman,3,2011-07-07,,Active,57592,True,1,drew.chen331@dundermifflin.com
+332,Casey,Singh,4,Customer Service,Customer Service Rep,2,2016-08-18,,Active,54311,False,19,casey.singh332@dundermifflin.com
+333,Sofia,Miller,2,Sales,Junior Sales Rep,2,2016-01-23,,Active,48692,False,29,sofia.miller333@dundermifflin.com
+334,Ivan,Singh,2,Accounting,Senior Accountant,3,2017-03-04,,Active,71240,True,29,ivan.singh334@dundermifflin.com
+335,Emerson,Petrov,3,Human Resources,HR Representative,3,2017-05-22,,Active,56140,True,48,emerson.petrov335@dundermifflin.com
+336,Sage,Costa,6,Sales,Junior Sales Rep,2,2011-11-28,2015-03-26,Terminated,47080,False,43,sage.costa336@dundermifflin.com
+337,Ivan,Brown,2,Customer Service,Customer Service Rep,2,2010-10-29,,Active,37413,False,29,ivan.brown337@dundermifflin.com
+338,Skyler,Davis,5,Accounting,Staff Accountant,2,2017-02-07,,Active,50666,False,35,skyler.davis338@dundermifflin.com
+339,Leah,Davis,9,Accounting,Senior Accountant,3,2015-10-03,,Active,63601,True,36,leah.davis339@dundermifflin.com
+340,Reese,Reyes,6,Warehouse,Warehouse Foreman,3,2015-03-18,,Active,50670,True,43,reese.reyes340@dundermifflin.com
+341,Emerson,Cohen,2,Administration,Receptionist,1,2012-07-08,,Active,25053,False,29,emerson.cohen341@dundermifflin.com
+342,Peyton,Flores,8,Customer Service,Customer Service Rep,2,2010-08-28,,Active,47103,False,34,peyton.flores342@dundermifflin.com
+343,Morgan,Novak,8,Human Resources,HR Representative,3,2018-09-07,,Active,66724,True,34,morgan.novak343@dundermifflin.com
+344,Sage,Singh,2,Warehouse,Warehouse Associate,1,2013-05-30,,Active,36934,False,29,sage.singh344@dundermifflin.com
+345,Omar,Williams,1,Accounting,Staff Accountant,2,2010-07-04,,Active,58425,False,1,omar.williams345@dundermifflin.com
+346,Reese,Garcia,8,Administration,Receptionist,1,2014-11-22,,Active,36214,False,34,reese.garcia346@dundermifflin.com
+347,Quinn,Dubois,3,Administration,Receptionist,1,2013-05-13,,Active,31623,False,48,quinn.dubois347@dundermifflin.com
+348,Taylor,Okafor,7,Accounting,Senior Accountant,3,2009-07-05,,Active,51961,True,39,taylor.okafor348@dundermifflin.com
+349,Wei,Davis,3,Human Resources,HR Representative,3,2011-07-26,,Active,59963,True,48,wei.davis349@dundermifflin.com
+350,Leah,Garcia,7,Administration,Office Administrator,2,2015-11-24,,Active,34715,False,39,leah.garcia350@dundermifflin.com
+351,Quinn,Yamamoto,4,Administration,Receptionist,1,2013-04-26,,Active,23958,False,19,quinn.yamamoto351@dundermifflin.com
+352,Cameron,Ali,10,Human Resources,HR Representative,3,2011-03-19,,Active,61089,True,66,cameron.ali352@dundermifflin.com
+353,Drew,Rossi,4,Administration,Office Administrator,2,2018-10-18,,Active,29044,False,19,drew.rossi353@dundermifflin.com
+354,Drew,Flores,10,Sales,Sales Representative,3,2013-09-27,,Active,54375,True,66,drew.flores354@dundermifflin.com
+355,Ivan,Miller,7,Warehouse,Warehouse Associate,1,2015-03-10,,Active,24288,False,39,ivan.miller355@dundermifflin.com
+356,Ivan,Reyes,7,Warehouse,Warehouse Associate,1,2013-08-31,,Active,29395,False,39,ivan.reyes356@dundermifflin.com
+357,Wei,Thomas,2,Sales,Sales Representative,3,2016-06-13,,Active,51670,True,29,wei.thomas357@dundermifflin.com
+358,Nina,Brown,4,Sales,Junior Sales Rep,2,2014-10-08,,Active,43074,False,19,nina.brown358@dundermifflin.com
+359,Sydney,Lopez,1,Warehouse,Warehouse Associate,1,2016-12-12,,Active,26421,False,1,sydney.lopez359@dundermifflin.com
+360,Cameron,Cohen,2,Customer Service,Customer Service Rep,2,2016-02-22,,Active,40948,False,29,cameron.cohen360@dundermifflin.com
+361,Hayden,Bauer,10,Administration,Office Administrator,2,2016-08-18,,Active,41437,False,66,hayden.bauer361@dundermifflin.com
+362,Jamie,Ali,8,Sales,Sales Representative,3,2012-07-22,,Active,70733,True,34,jamie.ali362@dundermifflin.com
+363,Yara,Martinez,4,Administration,Office Administrator,2,2010-07-02,,Active,41734,False,19,yara.martinez363@dundermifflin.com
+364,Reese,Brown,6,Administration,Office Administrator,2,2012-10-03,,Active,39505,False,43,reese.brown364@dundermifflin.com
+365,Jamie,Bauer,8,Human Resources,HR Representative,3,2017-10-18,,Active,61271,True,34,jamie.bauer365@dundermifflin.com
+366,Raj,Singh,4,Accounting,Senior Accountant,3,2018-05-20,,Active,59063,True,19,raj.singh366@dundermifflin.com
+367,Raj,Martinez,4,Warehouse,Warehouse Associate,1,2015-10-21,,Active,32839,False,19,raj.martinez367@dundermifflin.com
+368,Tomas,Ali,5,Administration,Receptionist,1,2009-05-23,,Active,32252,False,35,tomas.ali368@dundermifflin.com
+369,Cameron,Patel,6,Accounting,Senior Accountant,3,2011-01-03,,Active,49242,True,43,cameron.patel369@dundermifflin.com
+370,Sofia,Bauer,5,Sales,Junior Sales Rep,2,2017-04-19,,Active,44357,False,35,sofia.bauer370@dundermifflin.com
+371,Rowan,Williams,8,Customer Service,Customer Service Rep,2,2009-02-21,,Active,41790,False,34,rowan.williams371@dundermifflin.com
+372,Parker,Patel,3,Administration,Receptionist,1,2011-02-04,,Active,23922,False,48,parker.patel372@dundermifflin.com
+373,Reese,Martinez,4,Administration,Office Administrator,2,2011-04-09,,Active,45477,False,19,reese.martinez373@dundermifflin.com
+374,Hugo,Costa,9,Customer Service,Customer Service Rep,2,2009-07-09,,Active,35083,False,36,hugo.costa374@dundermifflin.com
+375,Nadia,Nguyen,6,Accounting,Senior Accountant,3,2014-03-06,,Active,58426,True,43,nadia.nguyen375@dundermifflin.com
+376,Jordan,Costa,5,Human Resources,HR Representative,3,2014-12-10,,Active,56785,True,35,jordan.costa376@dundermifflin.com
+377,Kai,Hernandez,4,Human Resources,HR Representative,3,2013-09-06,,Active,62748,True,19,kai.hernandez377@dundermifflin.com
+378,Kai,Thomas,5,Accounting,Senior Accountant,3,2011-03-07,,Active,49395,True,35,kai.thomas378@dundermifflin.com
+379,Nina,Moore,5,Sales,Sales Representative,3,2011-11-11,,Active,43327,True,35,nina.moore379@dundermifflin.com
+380,Casey,Jackson,10,Customer Service,Customer Service Rep,2,2017-08-18,,Active,46748,False,66,casey.jackson380@dundermifflin.com
+381,Tomas,Petrov,2,Sales,Junior Sales Rep,2,2018-04-08,,Active,44292,False,29,tomas.petrov381@dundermifflin.com
+382,Jamie,Flores,9,Accounting,Senior Accountant,3,2012-03-04,,Active,68580,True,36,jamie.flores382@dundermifflin.com
+383,Riley,Brown,9,Accounting,Staff Accountant,2,2016-12-30,2018-05-02,Terminated,61847,False,36,riley.brown383@dundermifflin.com
+384,Riley,Patel,9,Sales,Sales Representative,3,2010-09-16,,Active,60618,True,36,riley.patel384@dundermifflin.com
+385,Reese,Okafor,4,Warehouse,Warehouse Foreman,3,2014-07-07,,Active,45767,True,19,reese.okafor385@dundermifflin.com
+386,Quinn,Miller,10,Human Resources,HR Representative,3,2014-03-30,,Active,54564,True,66,quinn.miller386@dundermifflin.com
+387,Jamie,Singh,4,Accounting,Staff Accountant,2,2016-06-01,,Active,39322,False,19,jamie.singh387@dundermifflin.com
+388,Priya,Costa,2,Human Resources,HR Representative,3,2010-03-05,,Active,57128,True,29,priya.costa388@dundermifflin.com
+389,Drew,Moore,4,Human Resources,HR Representative,3,2012-01-25,,Active,55826,True,19,drew.moore389@dundermifflin.com
+390,Sydney,Lopez,7,Customer Service,Customer Service Rep,2,2015-07-04,,Active,55632,False,39,sydney.lopez390@dundermifflin.com
+391,Bianca,Garcia,9,Sales,Junior Sales Rep,2,2015-08-15,,Active,41200,False,36,bianca.garcia391@dundermifflin.com
+392,Taylor,Singh,7,Customer Service,Customer Service Rep,2,2014-06-12,,Active,34156,False,39,taylor.singh392@dundermifflin.com
+393,Peyton,Costa,9,Accounting,Staff Accountant,2,2011-07-15,,Active,45236,False,36,peyton.costa393@dundermifflin.com
+394,Jordan,Singh,6,Customer Service,Customer Service Rep,2,2009-05-24,,Active,47372,False,43,jordan.singh394@dundermifflin.com
+395,Hugo,Bauer,10,Human Resources,HR Representative,3,2014-01-02,,Active,52307,True,66,hugo.bauer395@dundermifflin.com
+396,Casey,Williams,1,Human Resources,HR Representative,3,2014-10-23,,Active,53328,True,1,casey.williams396@dundermifflin.com
+397,Sage,Jackson,2,Warehouse,Warehouse Associate,1,2009-04-28,,Active,29082,False,29,sage.jackson397@dundermifflin.com
+398,Riley,Brown,6,Warehouse,Warehouse Associate,1,2013-01-25,,Active,26730,False,43,riley.brown398@dundermifflin.com
+399,Ivan,Novak,8,Customer Service,Customer Service Rep,2,2018-07-10,,Active,39669,False,34,ivan.novak399@dundermifflin.com
+400,Jamie,Thomas,8,Administration,Office Administrator,2,2012-09-05,,Active,37947,False,34,jamie.thomas400@dundermifflin.com
+401,Leah,Miller,3,Warehouse,Warehouse Associate,1,2016-07-27,,Active,27877,False,48,leah.miller401@dundermifflin.com
+402,Emerson,Costa,3,Human Resources,HR Representative,3,2015-04-20,,Active,63591,True,48,emerson.costa402@dundermifflin.com
+403,Diego,Hernandez,8,Warehouse,Warehouse Associate,1,2012-07-23,,Active,31768,False,34,diego.hernandez403@dundermifflin.com
+404,Quinn,Okafor,6,Sales,Junior Sales Rep,2,2011-09-29,,Active,53394,False,43,quinn.okafor404@dundermifflin.com
+405,Wei,Costa,3,Warehouse,Warehouse Foreman,3,2016-08-17,,Active,61198,True,48,wei.costa405@dundermifflin.com
+406,Bianca,Flores,2,Warehouse,Warehouse Foreman,3,2013-02-13,,Active,42075,True,29,bianca.flores406@dundermifflin.com
+407,Kai,Williams,10,Customer Service,Customer Service Rep,2,2013-04-29,,Active,41764,False,66,kai.williams407@dundermifflin.com
+408,Ivan,Petrov,8,Warehouse,Warehouse Foreman,3,2015-07-24,,Active,49275,True,34,ivan.petrov408@dundermifflin.com
+409,Yara,Dubois,5,Accounting,Senior Accountant,3,2014-06-14,,Active,63289,True,35,yara.dubois409@dundermifflin.com
+410,Avery,Smith,10,Customer Service,Customer Service Rep,2,2009-03-30,,Active,41832,False,66,avery.smith410@dundermifflin.com
+411,Diego,Williams,10,Administration,Receptionist,1,2018-09-27,,Active,29221,False,66,diego.williams411@dundermifflin.com
+412,Casey,Miller,7,Sales,Junior Sales Rep,2,2013-09-26,,Active,38660,False,39,casey.miller412@dundermifflin.com
+413,Rowan,Petrov,8,Warehouse,Warehouse Associate,1,2012-09-04,2019-02-03,Terminated,27075,False,34,rowan.petrov413@dundermifflin.com
+414,Kai,Rossi,1,Administration,Receptionist,1,2017-05-13,,Active,27656,False,1,kai.rossi414@dundermifflin.com
+415,Avery,Chen,8,Human Resources,HR Representative,3,2009-05-28,,Active,67783,True,34,avery.chen415@dundermifflin.com
+416,Leah,Wilson,9,Administration,Receptionist,1,2011-07-24,2013-07-31,Terminated,36511,False,36,leah.wilson416@dundermifflin.com
+417,Skyler,Smith,3,Human Resources,HR Representative,3,2015-08-22,,Active,52733,True,48,skyler.smith417@dundermifflin.com
+418,Omar,Patel,10,Customer Service,Customer Service Rep,2,2010-11-15,,Active,46746,False,66,omar.patel418@dundermifflin.com
+419,Nadia,Novak,2,Warehouse,Warehouse Foreman,3,2016-06-04,2022-08-27,Terminated,39596,True,29,nadia.novak419@dundermifflin.com
+420,Morgan,Davis,3,Sales,Sales Representative,3,2017-06-19,,Active,69708,True,48,morgan.davis420@dundermifflin.com
+421,Hugo,Patel,6,Customer Service,Customer Service Rep,2,2018-08-30,,Active,34424,False,43,hugo.patel421@dundermifflin.com
+422,Leah,Haddad,3,Sales,Junior Sales Rep,2,2009-04-20,,Active,40342,False,48,leah.haddad422@dundermifflin.com
+423,Omar,Williams,5,Customer Service,Customer Service Rep,2,2018-03-08,,Active,26433,False,35,omar.williams423@dundermifflin.com
+424,Priya,Chen,2,Warehouse,Warehouse Associate,1,2013-11-27,,Active,23921,False,29,priya.chen424@dundermifflin.com
+425,Ivan,Davis,10,Human Resources,HR Representative,3,2010-06-30,,Active,60729,True,66,ivan.davis425@dundermifflin.com
+426,Nina,Garcia,2,Accounting,Senior Accountant,3,2011-08-20,,Active,69802,True,29,nina.garcia426@dundermifflin.com
+427,Rowan,Chen,4,Human Resources,HR Representative,3,2009-07-29,,Active,50659,True,19,rowan.chen427@dundermifflin.com
+428,Devon,Davis,7,Administration,Office Administrator,2,2010-06-20,,Active,35396,False,39,devon.davis428@dundermifflin.com
+429,Cameron,Brown,5,Administration,Receptionist,1,2012-01-11,,Active,28371,False,35,cameron.brown429@dundermifflin.com
+430,Wei,Reyes,2,Human Resources,HR Representative,3,2015-07-02,2018-10-10,Terminated,61685,True,29,wei.reyes430@dundermifflin.com
+431,Blake,Gonzalez,3,Sales,Sales Representative,3,2018-08-03,,Active,51982,True,48,blake.gonzalez431@dundermifflin.com
+432,Sofia,Yamamoto,2,Sales,Sales Representative,3,2016-05-14,,Active,61396,True,29,sofia.yamamoto432@dundermifflin.com
+433,Emerson,Hernandez,9,Human Resources,HR Representative,3,2017-06-12,,Active,55220,True,36,emerson.hernandez433@dundermifflin.com
+434,Parker,Moore,4,Sales,Junior Sales Rep,2,2017-06-19,,Active,50308,False,19,parker.moore434@dundermifflin.com
+435,Cameron,Hernandez,7,Customer Service,Customer Service Rep,2,2014-08-27,,Active,33570,False,39,cameron.hernandez435@dundermifflin.com
+436,Leah,Brown,7,Accounting,Senior Accountant,3,2014-10-11,,Active,67460,True,39,leah.brown436@dundermifflin.com
+437,Leah,Petrov,7,Accounting,Staff Accountant,2,2018-10-12,,Active,42326,False,39,leah.petrov437@dundermifflin.com
+438,Priya,Patel,10,Sales,Sales Representative,3,2011-05-28,,Active,49596,True,66,priya.patel438@dundermifflin.com
+439,Tomas,Bauer,5,Sales,Junior Sales Rep,2,2015-08-25,,Active,45556,False,35,tomas.bauer439@dundermifflin.com
+440,Leah,Ali,5,Administration,Receptionist,1,2013-11-27,,Active,40792,False,35,leah.ali440@dundermifflin.com
+441,Jordan,Wilson,1,Human Resources,HR Representative,3,2014-06-19,,Active,63396,True,1,jordan.wilson441@dundermifflin.com
+442,Raj,Davis,2,Warehouse,Warehouse Associate,1,2018-09-05,,Active,32928,False,29,raj.davis442@dundermifflin.com
+443,Emerson,Miller,5,Accounting,Staff Accountant,2,2009-03-23,,Active,47182,False,35,emerson.miller443@dundermifflin.com
+444,Cameron,Ali,9,Administration,Office Administrator,2,2013-11-19,,Active,42960,False,36,cameron.ali444@dundermifflin.com
+445,Blake,Dubois,1,Administration,Office Administrator,2,2009-04-17,,Active,39214,False,1,blake.dubois445@dundermifflin.com
+446,Peyton,Garcia,1,Administration,Receptionist,1,2016-02-03,,Active,30792,False,1,peyton.garcia446@dundermifflin.com
+447,Bianca,Dubois,1,Customer Service,Customer Service Rep,2,2016-08-10,,Active,38310,False,1,bianca.dubois447@dundermifflin.com
+448,Sage,Rodriguez,10,Warehouse,Warehouse Associate,1,2011-10-26,,Active,24259,False,66,sage.rodriguez448@dundermifflin.com
+449,Blake,Wilson,10,Warehouse,Warehouse Associate,1,2014-11-26,,Active,25053,False,66,blake.wilson449@dundermifflin.com
+450,Skyler,Brown,6,Customer Service,Customer Service Rep,2,2010-06-17,,Active,43423,False,43,skyler.brown450@dundermifflin.com
+451,Quinn,Haddad,4,Administration,Receptionist,1,2018-06-16,,Active,35190,False,19,quinn.haddad451@dundermifflin.com
+452,Ivan,Wilson,9,Accounting,Senior Accountant,3,2017-07-21,,Active,58799,True,36,ivan.wilson452@dundermifflin.com
+453,Jamie,Novak,8,Customer Service,Customer Service Rep,2,2014-10-02,,Active,51543,False,34,jamie.novak453@dundermifflin.com
+454,Jamie,Brown,6,Customer Service,Customer Service Rep,2,2013-09-26,,Active,39531,False,43,jamie.brown454@dundermifflin.com
+455,Quinn,Smith,9,Customer Service,Customer Service Rep,2,2018-02-12,,Active,38605,False,36,quinn.smith455@dundermifflin.com
+456,Leah,Martinez,10,Administration,Receptionist,1,2015-07-17,2017-11-20,Terminated,27611,False,66,leah.martinez456@dundermifflin.com
+457,Devon,Thomas,1,Accounting,Senior Accountant,3,2015-01-20,,Active,55424,True,1,devon.thomas457@dundermifflin.com
+458,Jordan,Rodriguez,5,Sales,Junior Sales Rep,2,2016-11-07,,Active,51924,False,35,jordan.rodriguez458@dundermifflin.com
+459,Blake,Ali,8,Administration,Receptionist,1,2013-08-11,,Active,31945,False,34,blake.ali459@dundermifflin.com
+460,Ivan,Costa,9,Human Resources,HR Representative,3,2014-02-17,,Active,62015,True,36,ivan.costa460@dundermifflin.com
+461,Sofia,Singh,1,Human Resources,HR Representative,3,2015-10-22,,Active,47513,True,1,sofia.singh461@dundermifflin.com
+462,Leah,Johnson,3,Administration,Receptionist,1,2017-12-03,,Active,33334,False,48,leah.johnson462@dundermifflin.com
+463,Omar,Petrov,8,Human Resources,HR Representative,3,2012-12-01,,Active,54729,True,34,omar.petrov463@dundermifflin.com
+464,Hayden,Costa,2,Accounting,Senior Accountant,3,2018-06-03,,Active,64776,True,29,hayden.costa464@dundermifflin.com
+465,Peyton,Johnson,3,Warehouse,Warehouse Foreman,3,2010-03-12,,Active,50704,True,48,peyton.johnson465@dundermifflin.com
+466,Quinn,Haddad,8,Warehouse,Warehouse Foreman,3,2013-11-24,,Active,49668,True,34,quinn.haddad466@dundermifflin.com
+467,Jordan,Miller,6,Customer Service,Customer Service Rep,2,2011-04-21,,Active,42966,False,43,jordan.miller467@dundermifflin.com
+468,Nina,Martinez,7,Warehouse,Warehouse Foreman,3,2012-04-04,,Active,51483,True,39,nina.martinez468@dundermifflin.com
+469,Tomas,Miller,1,Customer Service,Customer Service Rep,2,2017-06-10,,Active,45594,False,1,tomas.miller469@dundermifflin.com
+470,Reese,Chen,1,Human Resources,HR Representative,3,2015-09-23,,Active,89362,True,1,reese.chen470@dundermifflin.com
+471,Devon,Haddad,8,Warehouse,Warehouse Foreman,3,2016-04-12,,Active,56093,True,34,devon.haddad471@dundermifflin.com
+472,Blake,Nguyen,3,Sales,Sales Representative,3,2015-12-10,,Active,53292,True,48,blake.nguyen472@dundermifflin.com
+473,Cameron,Flores,10,Warehouse,Warehouse Foreman,3,2016-04-18,,Active,43928,True,66,cameron.flores473@dundermifflin.com
+474,Emerson,Moore,10,Warehouse,Warehouse Foreman,3,2014-03-18,,Active,59030,True,66,emerson.moore474@dundermifflin.com
+475,Leah,Bauer,1,Accounting,Staff Accountant,2,2009-10-14,,Active,37194,False,1,leah.bauer475@dundermifflin.com
+476,Hugo,Wilson,3,Customer Service,Customer Service Rep,2,2015-09-30,,Active,34828,False,48,hugo.wilson476@dundermifflin.com
+477,Avery,Kim,10,Warehouse,Warehouse Associate,1,2010-01-03,,Active,29822,False,66,avery.kim477@dundermifflin.com
+478,Jordan,Garcia,2,Sales,Junior Sales Rep,2,2012-05-31,,Active,46501,False,29,jordan.garcia478@dundermifflin.com
+479,Hugo,Flores,9,Sales,Junior Sales Rep,2,2011-06-25,,Active,44239,False,36,hugo.flores479@dundermifflin.com
+480,Skyler,Reyes,9,Accounting,Senior Accountant,3,2013-07-23,,Active,55300,True,36,skyler.reyes480@dundermifflin.com
+481,Cameron,Rossi,10,Warehouse,Warehouse Foreman,3,2015-01-17,,Active,47973,True,66,cameron.rossi481@dundermifflin.com
+482,Quinn,Anderson,6,Customer Service,Customer Service Rep,2,2016-06-08,,Active,39509,False,43,quinn.anderson482@dundermifflin.com
+483,Parker,Chen,3,Sales,Sales Representative,3,2016-03-24,,Active,56288,True,48,parker.chen483@dundermifflin.com
+484,Skyler,Williams,2,Administration,Office Administrator,2,2011-11-07,,Active,45420,False,29,skyler.williams484@dundermifflin.com
+485,Rowan,Smith,4,Human Resources,HR Representative,3,2017-12-04,,Active,61319,True,19,rowan.smith485@dundermifflin.com
+486,Jordan,Nguyen,3,Human Resources,HR Representative,3,2018-01-16,,Active,61999,True,48,jordan.nguyen486@dundermifflin.com
+487,Peyton,Singh,10,Administration,Office Administrator,2,2013-01-11,,Active,40920,False,66,peyton.singh487@dundermifflin.com
+488,Fatima,Rodriguez,6,Sales,Junior Sales Rep,2,2017-04-22,,Active,48162,False,43,fatima.rodriguez488@dundermifflin.com
+489,Zane,Gonzalez,7,Sales,Sales Representative,3,2011-11-30,,Active,51841,True,39,zane.gonzalez489@dundermifflin.com
+490,Fatima,Singh,5,Warehouse,Warehouse Foreman,3,2018-01-08,,Active,58440,True,35,fatima.singh490@dundermifflin.com
+491,Micah,Cohen,7,Sales,Junior Sales Rep,2,2016-09-23,,Active,41255,False,39,micah.cohen491@dundermifflin.com
+492,Nadia,Johnson,5,Sales,Junior Sales Rep,2,2010-01-01,,Active,38921,False,35,nadia.johnson492@dundermifflin.com
+493,Drew,Jackson,8,Accounting,Senior Accountant,3,2016-06-24,,Active,53388,True,34,drew.jackson493@dundermifflin.com
+494,Blake,Kim,6,Human Resources,HR Representative,3,2014-08-08,,Active,66107,True,43,blake.kim494@dundermifflin.com
+495,Morgan,Anderson,5,Administration,Office Administrator,2,2015-01-21,,Active,42338,False,35,morgan.anderson495@dundermifflin.com
+496,Jamie,Brown,8,Accounting,Staff Accountant,2,2011-04-30,,Active,44331,False,34,jamie.brown496@dundermifflin.com
+497,Hayden,Singh,10,Sales,Sales Representative,3,2018-01-18,,Active,39072,True,66,hayden.singh497@dundermifflin.com
+498,Avery,Garcia,3,Accounting,Staff Accountant,2,2013-03-14,,Active,56170,False,48,avery.garcia498@dundermifflin.com
+499,Tomas,Lopez,2,Warehouse,Warehouse Associate,1,2017-06-23,,Active,29333,False,29,tomas.lopez499@dundermifflin.com
+500,Skyler,Kim,1,Administration,Office Administrator,2,2013-04-04,2015-12-09,Terminated,46462,False,1,skyler.kim500@dundermifflin.com

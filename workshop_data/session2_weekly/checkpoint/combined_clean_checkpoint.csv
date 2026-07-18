@@ -1,0 +1,214 @@
+Order Date,Branch,Customer,Product,Qty,Amount
+2026-03-02,Nashua,Cumberland Mills,Envelope,248,1562.40
+2026-03-02,Nashua,Dunmore High School,Letterhead,263,2524.80
+2026-03-02,Nashua,Dunmore High School,Legal Pad,48,228.00
+2026-03-02,Nashua,Lackawanna County,Copy Paper,135,1059.75
+2026-03-02,Nashua,Scranton Business Park,Legal Pad,207,983.25
+2026-03-02,Nashua,Scranton White Pages,Copy Paper,196,1538.60
+2026-03-02,Nashua,Vance Refrigeration,Cardstock,95,1178.00
+2026-03-02,Scranton,Dunmore High School,Legal Pad,180,855.00
+2026-03-02,Scranton,Harper Collins Realty,Letterhead,192,1843.20
+2026-03-02,Scranton,Lackawanna County,Copy Paper,147,1153.95
+2026-03-02,Scranton,Lackawanna County,Letterhead,33,316.80
+2026-03-02,Scranton,Scranton Business Park,Cardstock,22,272.80
+2026-03-02,Scranton,Scranton Business Park,Cardstock,66,818.40
+2026-03-02,Scranton,Scranton White Pages,Ledger,112,1590.40
+2026-03-02,Scranton,Steamtown Mall,Copy Paper,32,251.20
+2026-03-02,Scranton,Steamtown Mall,Legal Pad,19,90.25
+2026-03-02,Scranton,Steamtown Mall,Copy Paper,154,1208.90
+2026-03-02,Scranton,Vance Refrigeration,Envelope,339,2135.70
+2026-03-02,Scranton,Vance Refrigeration,Legal Pad,297,1410.75
+2026-03-02,Utica,Apex Technology,Legal Pad,306,1453.50
+2026-03-02,Utica,Dunmore High School,Envelope,157,989.10
+2026-03-02,Utica,Harper Collins Realty,Letterhead,328,3148.80
+2026-03-02,Utica,Lackawanna County,Letterhead,93,892.80
+2026-03-02,Utica,Lackawanna County,Ledger,249,3535.80
+2026-03-02,Utica,Lackawanna County,Ledger,312,4430.40
+2026-03-02,Utica,Lackawanna County,Copy Paper,212,1664.20
+2026-03-02,Utica,Penn Paper Supply,Envelope,333,2097.90
+2026-03-02,Utica,Penn Paper Supply,Legal Pad,293,1391.75
+2026-03-02,Utica,Penn Paper Supply,Copy Paper,169,1326.65
+2026-03-02,Utica,Scranton Business Park,Letterhead,149,1430.40
+2026-03-02,Utica,Scranton White Pages,Cardstock,9,111.60
+2026-03-02,Utica,Steamtown Mall,Ledger,279,3961.80
+2026-03-03,Nashua,Cumberland Mills,Envelope,126,793.80
+2026-03-03,Nashua,Cumberland Mills,Letterhead,63,604.80
+2026-03-03,Nashua,Harper Collins Realty,Envelope,77,485.10
+2026-03-03,Nashua,Lackawanna County,Letterhead,138,1324.80
+2026-03-03,Nashua,Lackawanna County,Cardstock,149,1847.60
+2026-03-03,Nashua,Scranton White Pages,Cardstock,286,3546.40
+2026-03-03,Nashua,Scranton White Pages,Letterhead,99,950.40
+2026-03-03,Nashua,Steamtown Mall,Legal Pad,126,598.50
+2026-03-03,Nashua,Vance Refrigeration,Cardstock,222,2752.80
+2026-03-03,Nashua,Vance Refrigeration,Ledger,246,3493.20
+2026-03-03,Scranton,Apex Technology,Envelope,80,504.00
+2026-03-03,Scranton,Cumberland Mills,Legal Pad,271,1287.25
+2026-03-03,Scranton,Cumberland Mills,Envelope,275,1732.50
+2026-03-03,Scranton,Dunmore High School,Ledger,14,198.80
+2026-03-03,Scranton,Harper Collins Realty,Legal Pad,37,175.75
+2026-03-03,Scranton,Harper Collins Realty,Cardstock,169,2095.60
+2026-03-03,Scranton,Lackawanna County,Letterhead,162,1555.20
+2026-03-03,Scranton,Penn Paper Supply,Legal Pad,171,812.25
+2026-03-03,Scranton,Penn Paper Supply,Ledger,97,1377.40
+2026-03-03,Scranton,Scranton Business Park,Letterhead,208,1996.80
+2026-03-03,Scranton,Scranton White Pages,Copy Paper,300,2355.00
+2026-03-03,Scranton,Scranton White Pages,Ledger,295,4189.00
+2026-03-03,Scranton,Steamtown Mall,Copy Paper,65,510.25
+2026-03-03,Scranton,Steamtown Mall,Ledger,328,4657.60
+2026-03-03,Scranton,Steamtown Mall,Envelope,108,680.40
+2026-03-03,Scranton,Steamtown Mall,Envelope,86,541.80
+2026-03-03,Scranton,Steamtown Mall,Copy Paper,42,329.70
+2026-03-03,Scranton,Vance Refrigeration,Letterhead,34,326.40
+2026-03-03,Scranton,Vance Refrigeration,Cardstock,253,3137.20
+2026-03-03,Utica,Apex Technology,Cardstock,31,384.40
+2026-03-03,Utica,Apex Technology,Copy Paper,272,2135.20
+2026-03-03,Utica,Dunmore High School,Letterhead,153,1468.80
+2026-03-03,Utica,Lackawanna County,Copy Paper,13,102.05
+2026-03-03,Utica,Lackawanna County,Legal Pad,62,294.50
+2026-03-03,Utica,Lackawanna County,Envelope,65,409.50
+2026-03-03,Utica,Penn Paper Supply,Letterhead,235,2256.00
+2026-03-03,Utica,Scranton Business Park,Cardstock,122,1512.80
+2026-03-03,Utica,Scranton White Pages,Letterhead,101,969.60
+2026-03-03,Utica,Scranton White Pages,Legal Pad,25,118.75
+2026-03-03,Utica,Steamtown Mall,Ledger,24,340.80
+2026-03-03,Utica,Steamtown Mall,Letterhead,279,2678.40
+2026-03-03,Utica,Vance Refrigeration,Legal Pad,308,1463.00
+2026-03-04,Nashua,Apex Technology,Copy Paper,326,2559.10
+2026-03-04,Nashua,Cumberland Mills,Cardstock,181,2244.40
+2026-03-04,Nashua,Cumberland Mills,Envelope,65,409.50
+2026-03-04,Nashua,Dunmore High School,Letterhead,62,595.20
+2026-03-04,Nashua,Dunmore High School,Ledger,208,2953.60
+2026-03-04,Nashua,Harper Collins Realty,Copy Paper,305,2394.25
+2026-03-04,Nashua,Lackawanna County,Letterhead,53,508.80
+2026-03-04,Nashua,Lackawanna County,Envelope,61,384.30
+2026-03-04,Nashua,Penn Paper Supply,Cardstock,115,1426.00
+2026-03-04,Nashua,Scranton White Pages,Copy Paper,318,2496.30
+2026-03-04,Nashua,Vance Refrigeration,Letterhead,316,3033.60
+2026-03-04,Nashua,Vance Refrigeration,Cardstock,182,2256.80
+2026-03-04,Nashua,Vance Refrigeration,Ledger,237,3365.40
+2026-03-04,Scranton,Cumberland Mills,Cardstock,124,1537.60
+2026-03-04,Scranton,Cumberland Mills,Envelope,101,636.30
+2026-03-04,Scranton,Dunmore High School,Ledger,200,2840.00
+2026-03-04,Scranton,Harper Collins Realty,Copy Paper,12,94.20
+2026-03-04,Scranton,Harper Collins Realty,Letterhead,180,1728.00
+2026-03-04,Scranton,Harper Collins Realty,Legal Pad,67,318.25
+2026-03-04,Scranton,Lackawanna County,Cardstock,252,3124.80
+2026-03-04,Scranton,Penn Paper Supply,Envelope,308,1940.40
+2026-03-04,Scranton,Steamtown Mall,Ledger,48,681.60
+2026-03-04,Scranton,Steamtown Mall,Letterhead,98,940.80
+2026-03-04,Scranton,Vance Refrigeration,Ledger,298,4231.60
+2026-03-04,Utica,Apex Technology,Legal Pad,131,622.25
+2026-03-04,Utica,Apex Technology,Envelope,179,1127.70
+2026-03-04,Utica,Cumberland Mills,Envelope,68,428.40
+2026-03-04,Utica,Cumberland Mills,Letterhead,124,1190.40
+2026-03-04,Utica,Cumberland Mills,Copy Paper,73,573.05
+2026-03-04,Utica,Cumberland Mills,Legal Pad,316,1501.00
+2026-03-04,Utica,Lackawanna County,Legal Pad,106,503.50
+2026-03-04,Utica,Penn Paper Supply,Letterhead,247,2371.20
+2026-03-04,Utica,Penn Paper Supply,Envelope,147,926.10
+2026-03-04,Utica,Scranton Business Park,Envelope,181,1140.30
+2026-03-04,Utica,Vance Refrigeration,Ledger,233,3308.60
+2026-03-05,Nashua,Apex Technology,Envelope,112,705.60
+2026-03-05,Nashua,Apex Technology,Envelope,88,554.40
+2026-03-05,Nashua,Apex Technology,Legal Pad,241,1144.75
+2026-03-05,Nashua,Harper Collins Realty,Envelope,294,1852.20
+2026-03-05,Nashua,Harper Collins Realty,Envelope,49,308.70
+2026-03-05,Nashua,Harper Collins Realty,Copy Paper,229,1797.65
+2026-03-05,Nashua,Lackawanna County,Copy Paper,304,2386.40
+2026-03-05,Nashua,Lackawanna County,Legal Pad,12,57.00
+2026-03-05,Nashua,Lackawanna County,Ledger,300,4260.00
+2026-03-05,Nashua,Lackawanna County,Letterhead,158,1516.80
+2026-03-05,Nashua,Scranton Business Park,Legal Pad,12,57.00
+2026-03-05,Nashua,Scranton Business Park,Ledger,219,3109.80
+2026-03-05,Nashua,Scranton White Pages,Ledger,62,880.40
+2026-03-05,Nashua,Scranton White Pages,Legal Pad,291,1382.25
+2026-03-05,Nashua,Scranton White Pages,Ledger,188,2669.60
+2026-03-05,Nashua,Steamtown Mall,Cardstock,270,3348.00
+2026-03-05,Nashua,Steamtown Mall,Ledger,304,4316.80
+2026-03-05,Nashua,Vance Refrigeration,Cardstock,197,2442.80
+2026-03-05,Nashua,Vance Refrigeration,Letterhead,155,1488.00
+2026-03-05,Scranton,Apex Technology,Legal Pad,185,878.75
+2026-03-05,Scranton,Apex Technology,Letterhead,47,451.20
+2026-03-05,Scranton,Cumberland Mills,Ledger,330,4686.00
+2026-03-05,Scranton,Cumberland Mills,Envelope,46,289.80
+2026-03-05,Scranton,Dunmore High School,Legal Pad,118,560.50
+2026-03-05,Scranton,Dunmore High School,Cardstock,292,3620.80
+2026-03-05,Scranton,Harper Collins Realty,Ledger,207,2939.40
+2026-03-05,Scranton,Lackawanna County,Ledger,22,312.40
+2026-03-05,Scranton,Penn Paper Supply,Copy Paper,34,266.90
+2026-03-05,Scranton,Scranton Business Park,Cardstock,167,2070.80
+2026-03-05,Scranton,Scranton White Pages,Copy Paper,28,219.80
+2026-03-05,Scranton,Scranton White Pages,Copy Paper,51,400.35
+2026-03-05,Scranton,Steamtown Mall,Copy Paper,304,2386.40
+2026-03-05,Scranton,Vance Refrigeration,Letterhead,19,182.40
+2026-03-05,Scranton,Vance Refrigeration,Letterhead,285,2736.00
+2026-03-05,Utica,Apex Technology,Copy Paper,35,274.75
+2026-03-05,Utica,Cumberland Mills,Ledger,16,227.20
+2026-03-05,Utica,Dunmore High School,Cardstock,204,2529.60
+2026-03-05,Utica,Harper Collins Realty,Letterhead,254,2438.40
+2026-03-05,Utica,Harper Collins Realty,Copy Paper,274,2150.90
+2026-03-05,Utica,Scranton White Pages,Copy Paper,327,2566.95
+2026-03-05,Utica,Scranton White Pages,Envelope,59,371.70
+2026-03-05,Utica,Scranton White Pages,Envelope,281,1770.30
+2026-03-05,Utica,Scranton White Pages,Ledger,193,2740.60
+2026-03-05,Utica,Steamtown Mall,Ledger,266,3777.20
+2026-03-05,Utica,Steamtown Mall,Copy Paper,172,1350.20
+2026-03-05,Utica,Steamtown Mall,Legal Pad,138,655.50
+2026-03-05,Utica,Vance Refrigeration,Envelope,119,749.70
+2026-03-05,Utica,Vance Refrigeration,Envelope,248,1562.40
+2026-03-05,Utica,Vance Refrigeration,Envelope,130,819.00
+2026-03-06,Nashua,Apex Technology,Cardstock,122,1512.80
+2026-03-06,Nashua,Apex Technology,Cardstock,292,3620.80
+2026-03-06,Nashua,Apex Technology,Copy Paper,318,2496.30
+2026-03-06,Nashua,Apex Technology,Ledger,25,355.00
+2026-03-06,Nashua,Cumberland Mills,Ledger,72,1022.40
+2026-03-06,Nashua,Dunmore High School,Cardstock,250,3100.00
+2026-03-06,Nashua,Dunmore High School,Letterhead,325,3120.00
+2026-03-06,Nashua,Dunmore High School,Copy Paper,304,2386.40
+2026-03-06,Nashua,Dunmore High School,Envelope,18,113.40
+2026-03-06,Nashua,Harper Collins Realty,Copy Paper,259,2033.15
+2026-03-06,Nashua,Harper Collins Realty,Ledger,68,965.60
+2026-03-06,Nashua,Lackawanna County,Letterhead,97,931.20
+2026-03-06,Nashua,Lackawanna County,Copy Paper,65,510.25
+2026-03-06,Nashua,Lackawanna County,Ledger,162,2300.40
+2026-03-06,Nashua,Lackawanna County,Legal Pad,306,1453.50
+2026-03-06,Nashua,Scranton Business Park,Letterhead,38,364.80
+2026-03-06,Nashua,Scranton Business Park,Legal Pad,305,1448.75
+2026-03-06,Nashua,Scranton Business Park,Ledger,44,624.80
+2026-03-06,Nashua,Scranton Business Park,Cardstock,336,4166.40
+2026-03-06,Nashua,Scranton White Pages,Copy Paper,264,2072.40
+2026-03-06,Nashua,Scranton White Pages,Cardstock,13,161.20
+2026-03-06,Nashua,Vance Refrigeration,Cardstock,326,4042.40
+2026-03-06,Scranton,Cumberland Mills,Letterhead,277,2659.20
+2026-03-06,Scranton,Cumberland Mills,Cardstock,326,4042.40
+2026-03-06,Scranton,Cumberland Mills,Cardstock,81,1004.40
+2026-03-06,Scranton,Dunmore High School,Copy Paper,22,172.70
+2026-03-06,Scranton,Harper Collins Realty,Copy Paper,296,2323.60
+2026-03-06,Scranton,Harper Collins Realty,Ledger,319,4529.80
+2026-03-06,Scranton,Lackawanna County,Ledger,265,3763.00
+2026-03-06,Scranton,Penn Paper Supply,Cardstock,233,2889.20
+2026-03-06,Scranton,Scranton Business Park,Letterhead,87,835.20
+2026-03-06,Scranton,Scranton Business Park,Legal Pad,185,878.75
+2026-03-06,Scranton,Scranton Business Park,Cardstock,319,3955.60
+2026-03-06,Scranton,Scranton Business Park,Letterhead,20,192.00
+2026-03-06,Scranton,Scranton White Pages,Letterhead,27,259.20
+2026-03-06,Scranton,Scranton White Pages,Legal Pad,175,831.25
+2026-03-06,Scranton,Scranton White Pages,Envelope,258,1625.40
+2026-03-06,Scranton,Scranton White Pages,Copy Paper,143,1122.55
+2026-03-06,Scranton,Scranton White Pages,Legal Pad,222,1054.50
+2026-03-06,Scranton,Steamtown Mall,Legal Pad,137,650.75
+2026-03-06,Scranton,Steamtown Mall,Legal Pad,287,1363.25
+2026-03-06,Scranton,Vance Refrigeration,Letterhead,8,76.80
+2026-03-06,Scranton,Vance Refrigeration,Letterhead,60,576.00
+2026-03-06,Utica,Apex Technology,Copy Paper,151,1185.35
+2026-03-06,Utica,Apex Technology,Ledger,235,3337.00
+2026-03-06,Utica,Dunmore High School,Cardstock,244,3025.60
+2026-03-06,Utica,Dunmore High School,Letterhead,132,1267.20
+2026-03-06,Utica,Dunmore High School,Envelope,215,1354.50
+2026-03-06,Utica,Harper Collins Realty,Letterhead,21,201.60
+2026-03-06,Utica,Penn Paper Supply,Letterhead,133,1276.80
+2026-03-06,Utica,Penn Paper Supply,Letterhead,96,921.60
+2026-03-06,Utica,Penn Paper Supply,Ledger,235,3337.00
+2026-03-06,Utica,Vance Refrigeration,Cardstock,108,1339.20
+2026-03-06,Utica,Vance Refrigeration,Envelope,45,283.50
+2026-03-06,Utica,Vance Refrigeration,Envelope,13,81.90

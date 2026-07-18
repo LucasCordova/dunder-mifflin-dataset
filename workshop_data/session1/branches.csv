@@ -1,0 +1,12 @@
+branch_id,branch_name,city,state,region,open_date,close_date,sq_ft,warehouse_flag,manager_employee_id
+1,Scranton,Scranton,PA,Northeast,2001-03-12,,11302,True,1
+2,Stamford,Stamford,CT,Northeast,2003-06-02,2020-08-31,36636,False,29
+3,Utica,Utica,NY,Northeast,2002-09-15,,32219,False,48
+4,Nashua,Nashua,NH,Northeast,2004-01-20,,24238,True,19
+5,Akron,Akron,OH,Midwest,2005-11-01,,24021,False,35
+6,Buffalo,Buffalo,NY,Northeast,2003-04-18,,39768,False,43
+7,Albany,Albany,NY,Northeast,2006-02-27,,11179,False,39
+8,Rochester,Rochester,NY,Northeast,2004-08-09,,33802,False,34
+9,Camden,Camden,NJ,Northeast,2005-05-30,,15454,False,36
+10,Yonkers,Yonkers,NY,Northeast,2007-10-14,,11484,False,66
+11,Corporate HQ,New York,NY,Corporate,1998-01-01,,60000,False,22

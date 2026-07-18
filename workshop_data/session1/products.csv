@@ -1,0 +1,120 @@
+product_id,sku,product_name,paper_type,weight_gsm,ream_size,brand_tier,color,recycled_flag,unit_cost,list_price
+1,DM-COP-0001,Standard Cream Copy Paper 86gsm (1000 ct),Copy Paper,86.9,1000,Standard,Cream,False,4.43,7.69
+2,DM-COP-0002,Premium Pink Copy Paper 87gsm (250 ct),Copy Paper,87.5,250,Premium,Pink,False,6.61,9.97
+3,DM-COP-0003,Premium Cream Copy Paper 78gsm (1000 ct),Copy Paper,78.9,1000,Premium,Cream,False,5.9,9.39
+4,DM-COP-0004,Premium Yellow Copy Paper 79gsm (250 ct),Copy Paper,79.9,250,Premium,Yellow,False,4.7,8.17
+5,DM-COP-0005,Premium Bright White Copy Paper 84gsm (500 ct),Copy Paper,84.0,500,Premium,Bright White,False,5.46,9.24
+6,DM-COP-0006,Standard Ivory Copy Paper 77gsm (250 ct),Copy Paper,77.3,250,Standard,Ivory,True,4.69,6.53
+7,DM-COP-0007,Economy White Copy Paper 86gsm (250 ct),Copy Paper,86.2,250,Economy,White,False,3.21,5.26
+8,DM-COP-0008,Economy Assorted Copy Paper 75gsm (500 ct),Copy Paper,75.2,500,Economy,Assorted,False,2.78,4.78
+9,DM-COP-0009,Economy Assorted Copy Paper 83gsm (500 ct),Copy Paper,83.3,500,Economy,Assorted,False,3.67,5.23
+10,DM-COP-0010,Economy Assorted Copy Paper 87gsm (250 ct),Copy Paper,87.1,250,Economy,Assorted,False,3.4,5.61
+11,DM-COP-0011,Premium Pink Copy Paper 85gsm (1000 ct),Copy Paper,85.2,1000,Premium,Pink,False,6.4,10.12
+12,DM-REC-0012,Economy Assorted Recycled Copy 74gsm (1000 ct),Recycled Copy,74.7,1000,Economy,Assorted,True,3.35,4.73
+13,DM-REC-0013,Economy Bright White Recycled Copy 72gsm (250 ct),Recycled Copy,72.5,250,Economy,Bright White,True,2.88,5.09
+14,DM-REC-0014,Premium White Recycled Copy 84gsm (250 ct),Recycled Copy,84.5,250,Premium,White,True,6.43,9.78
+15,DM-REC-0015,Economy Cream Recycled Copy 85gsm (1000 ct),Recycled Copy,85.1,1000,Economy,Cream,True,4.03,6.2
+16,DM-REC-0016,Economy Pink Recycled Copy 83gsm (250 ct),Recycled Copy,83.9,250,Economy,Pink,True,3.12,4.71
+17,DM-REC-0017,Premium White Recycled Copy 78gsm (1000 ct),Recycled Copy,78.7,1000,Premium,White,True,5.06,8.76
+18,DM-REC-0018,Economy Cream Recycled Copy 80gsm (500 ct),Recycled Copy,80.8,500,Economy,Cream,True,2.7,4.84
+19,DM-REC-0019,Premium Assorted Recycled Copy 78gsm (500 ct),Recycled Copy,78.1,500,Premium,Assorted,True,6.8,10.27
+20,DM-REC-0020,Premium Yellow Recycled Copy 82gsm (250 ct),Recycled Copy,82.8,250,Premium,Yellow,True,5.45,9.61
+21,DM-COL-0021,Economy Yellow Colored Copy 88gsm (1000 ct),Colored Copy,88.2,1000,Economy,Yellow,False,3.92,6.03
+22,DM-COL-0022,Economy Ivory Colored Copy 80gsm (1000 ct),Colored Copy,80.5,1000,Economy,Ivory,False,4.58,7.04
+23,DM-COL-0023,Standard Yellow Colored Copy 86gsm (1000 ct),Colored Copy,86.2,1000,Standard,Yellow,False,4.78,7.81
+24,DM-COL-0024,Premium Cream Colored Copy 76gsm (250 ct),Colored Copy,76.3,250,Premium,Cream,False,8.38,11.8
+25,DM-COL-0025,Standard White Colored Copy 80gsm (1000 ct),Colored Copy,80.9,1000,Standard,White,False,4.39,7.13
+26,DM-COL-0026,Premium Bright White Colored Copy 94gsm (1000 ct),Colored Copy,94.3,1000,Premium,Bright White,True,7.37,10.34
+27,DM-COL-0027,Standard Pink Colored Copy 76gsm (1000 ct),Colored Copy,76.3,1000,Standard,Pink,False,5.07,7.88
+28,DM-COL-0028,Premium Yellow Colored Copy 80gsm (1000 ct),Colored Copy,80.3,1000,Premium,Yellow,False,6.99,10.49
+29,DM-CAR-0029,Premium White Cardstock 276gsm (250 ct),Cardstock,276.1,250,Premium,White,True,15.78,22.25
+30,DM-CAR-0030,Standard Cream Cardstock 249gsm (1000 ct),Cardstock,249.9,1000,Standard,Cream,False,9.43,16.64
+31,DM-CAR-0031,Economy Pink Cardstock 192gsm (1000 ct),Cardstock,192.6,1000,Economy,Pink,True,8.33,12.95
+32,DM-CAR-0032,Economy Assorted Cardstock 182gsm (500 ct),Cardstock,182.8,500,Economy,Assorted,False,9.34,13.24
+33,DM-CAR-0033,Premium Assorted Cardstock 181gsm (1000 ct),Cardstock,181.1,1000,Premium,Assorted,False,11.24,17.1
+34,DM-CAR-0034,Standard Blue Cardstock 249gsm (500 ct),Cardstock,249.5,500,Standard,Blue,True,12.22,18.82
+35,DM-CAR-0035,Economy White Cardstock 269gsm (500 ct),Cardstock,269.4,500,Economy,White,True,10.85,17.05
+36,DM-CAR-0036,Standard Bright White Cardstock 207gsm (1000 ct),Cardstock,207.6,1000,Standard,Bright White,False,11.32,15.84
+37,DM-CAR-0037,Standard White Cardstock 184gsm (250 ct),Cardstock,184.2,250,Standard,White,False,9.8,15.44
+38,DM-CAR-0038,Standard Ivory Cardstock 293gsm (250 ct),Cardstock,293.0,250,Standard,Ivory,False,11.9,20.02
+39,DM-CAR-0039,Premium Bright White Cardstock 224gsm (250 ct),Cardstock,224.9,250,Premium,Bright White,False,13.65,20.17
+40,DM-CAR-0040,Standard Cream Cardstock 244gsm (250 ct),Cardstock,244.6,250,Standard,Cream,True,12.25,18.53
+41,DM-GLO-0041,Premium Assorted Glossy Photo 171gsm (500 ct),Glossy Photo,171.4,500,Premium,Assorted,False,13.22,20.57
+42,DM-GLO-0042,Economy Ivory Glossy Photo 225gsm (1000 ct),Glossy Photo,225.8,1000,Economy,Ivory,False,12.13,17.53
+43,DM-GLO-0043,Economy White Glossy Photo 187gsm (500 ct),Glossy Photo,187.5,500,Economy,White,False,9.59,16.59
+44,DM-GLO-0044,Economy Yellow Glossy Photo 210gsm (500 ct),Glossy Photo,210.6,500,Economy,Yellow,False,11.28,17.06
+45,DM-GLO-0045,Economy Pink Glossy Photo 196gsm (1000 ct),Glossy Photo,196.6,1000,Economy,Pink,True,11.87,16.72
+46,DM-GLO-0046,Standard Cream Glossy Photo 255gsm (500 ct),Glossy Photo,255.6,500,Standard,Cream,False,14.22,20.97
+47,DM-GLO-0047,Economy Assorted Glossy Photo 183gsm (500 ct),Glossy Photo,183.0,500,Economy,Assorted,False,9.77,16.03
+48,DM-GLO-0048,Premium Bright White Glossy Photo 249gsm (1000 ct),Glossy Photo,249.8,1000,Premium,Bright White,False,13.99,23.47
+49,DM-LET-0049,Standard Pink Letterhead 95gsm (1000 ct),Letterhead,95.9,1000,Standard,Pink,False,6.8,9.73
+50,DM-LET-0050,Premium Pink Letterhead 96gsm (500 ct),Letterhead,96.9,500,Premium,Pink,False,8.18,12.68
+51,DM-LET-0051,Economy Yellow Letterhead 100gsm (250 ct),Letterhead,100.3,250,Economy,Yellow,False,5.46,8.6
+52,DM-LET-0052,Premium Assorted Letterhead 108gsm (1000 ct),Letterhead,108.9,1000,Premium,Assorted,False,7.33,12.52
+53,DM-LET-0053,Standard Ivory Letterhead 114gsm (250 ct),Letterhead,114.7,250,Standard,Ivory,False,6.68,10.31
+54,DM-LET-0054,Premium Pink Letterhead 98gsm (1000 ct),Letterhead,98.7,1000,Premium,Pink,False,8.51,12.83
+55,DM-LET-0055,Economy White Letterhead 115gsm (1000 ct),Letterhead,115.4,1000,Economy,White,False,6.31,9.32
+56,DM-LET-0056,Standard Cream Letterhead 117gsm (250 ct),Letterhead,117.8,250,Standard,Cream,False,6.54,11.12
+57,DM-LET-0057,Premium Assorted Letterhead 115gsm (500 ct),Letterhead,115.2,500,Premium,Assorted,False,8.93,14.09
+58,DM-LET-0058,Premium White Letterhead 116gsm (500 ct),Letterhead,116.9,500,Premium,White,False,8.15,12.46
+59,DM-LEG-0059,Standard Cream Legal Pad 68gsm (500 ct),Legal Pad,68.0,500,Standard,Cream,False,4.76,7.56
+60,DM-LEG-0060,Premium Ivory Legal Pad 76gsm (1000 ct),Legal Pad,76.4,1000,Premium,Ivory,False,7.32,10.53
+61,DM-LEG-0061,Economy Ivory Legal Pad 71gsm (500 ct),Legal Pad,71.7,500,Economy,Ivory,False,4.72,7.11
+62,DM-LEG-0062,Standard Bright White Legal Pad 65gsm (500 ct),Legal Pad,65.1,500,Standard,Bright White,False,5.17,7.4
+63,DM-LEG-0063,Premium Bright White Legal Pad 77gsm (250 ct),Legal Pad,77.5,250,Premium,Bright White,False,6.66,10.79
+64,DM-LEG-0064,Premium Assorted Legal Pad 77gsm (1000 ct),Legal Pad,77.4,1000,Premium,Assorted,False,7.52,10.93
+65,DM-LEG-0065,Premium Pink Legal Pad 69gsm (500 ct),Legal Pad,69.4,500,Premium,Pink,False,6.8,10.31
+66,DM-LEG-0066,Economy Pink Legal Pad 79gsm (250 ct),Legal Pad,79.4,250,Economy,Pink,False,4.64,6.67
+67,DM-LEG-0067,Economy Pink Legal Pad 70gsm (500 ct),Legal Pad,70.1,500,Economy,Pink,True,3.55,5.58
+68,DM-LEG-0068,Economy Yellow Legal Pad 76gsm (500 ct),Legal Pad,76.1,500,Economy,Yellow,False,4.2,6.22
+69,DM-LED-0069,Economy Bright White Ledger 99gsm (500 ct),Ledger,99.6,500,Economy,Bright White,False,5.27,8.77
+70,DM-LED-0070,Standard Ivory Ledger 113gsm (500 ct),Ledger,113.4,500,Standard,Ivory,False,6.89,10.76
+71,DM-LED-0071,Economy Bright White Ledger 139gsm (500 ct),Ledger,139.5,500,Economy,Bright White,True,6.29,10.85
+72,DM-LED-0072,Premium Yellow Ledger 115gsm (500 ct),Ledger,115.2,500,Premium,Yellow,False,8.93,14.07
+73,DM-LED-0073,Premium Assorted Ledger 92gsm (250 ct),Ledger,92.3,250,Premium,Assorted,False,6.87,12.19
+74,DM-LED-0074,Premium Yellow Ledger 145gsm (1000 ct),Ledger,145.8,1000,Premium,Yellow,False,10.01,15.66
+75,DM-LED-0075,Premium Assorted Ledger 135gsm (1000 ct),Ledger,135.7,1000,Premium,Assorted,True,8.01,14.24
+76,DM-LED-0076,Premium Blue Ledger 121gsm (250 ct),Ledger,121.2,250,Premium,Blue,False,7.24,12.54
+77,DM-LED-0077,Economy Blue Ledger 146gsm (1000 ct),Ledger,146.0,1000,Economy,Blue,True,6.61,10.83
+78,DM-LED-0078,Standard Ivory Ledger 126gsm (250 ct),Ledger,126.0,250,Standard,Ivory,True,6.86,12.09
+79,DM-LED-0079,Economy Blue Ledger 134gsm (500 ct),Ledger,134.6,500,Economy,Blue,False,6.97,10.46
+80,DM-CON-0080,Standard Bright White Construction 136gsm (500 ct),Construction,136.1,500,Standard,Bright White,False,6.26,9.27
+81,DM-CON-0081,Premium Assorted Construction 130gsm (250 ct),Construction,130.8,250,Premium,Assorted,False,8.35,12.54
+82,DM-CON-0082,Standard Assorted Construction 126gsm (1000 ct),Construction,126.2,1000,Standard,Assorted,False,5.91,9.07
+83,DM-CON-0083,Economy Ivory Construction 94gsm (500 ct),Construction,94.7,500,Economy,Ivory,False,4.21,7.29
+84,DM-CON-0084,Economy Cream Construction 82gsm (1000 ct),Construction,82.7,1000,Economy,Cream,False,3.53,6.36
+85,DM-CON-0085,Standard Assorted Construction 97gsm (1000 ct),Construction,97.0,1000,Standard,Assorted,False,5.18,8.65
+86,DM-CON-0086,Standard White Construction 120gsm (250 ct),Construction,120.7,250,Standard,White,False,5.65,8.36
+87,DM-CON-0087,Standard Yellow Construction 93gsm (1000 ct),Construction,93.2,1000,Standard,Yellow,False,5.73,9.15
+88,DM-CON-0088,Economy Cream Construction 107gsm (1000 ct),Construction,107.8,1000,Economy,Cream,False,4.69,7.1
+89,DM-CON-0089,Economy White Construction 102gsm (500 ct),Construction,102.3,500,Economy,White,False,4.55,7.28
+90,DM-NEW-0090,Economy Assorted Newsprint 48gsm (500 ct),Newsprint,48.1,500,Economy,Assorted,False,2.11,3.1
+91,DM-NEW-0091,Standard Assorted Newsprint 50gsm (500 ct),Newsprint,50.6,500,Standard,Assorted,False,2.55,4.21
+92,DM-NEW-0092,Premium Blue Newsprint 59gsm (500 ct),Newsprint,59.1,500,Premium,Blue,False,5.12,8.26
+93,DM-NEW-0093,Economy Yellow Newsprint 52gsm (250 ct),Newsprint,52.9,250,Economy,Yellow,True,1.67,2.92
+94,DM-NEW-0094,Standard Pink Newsprint 53gsm (250 ct),Newsprint,53.4,250,Standard,Pink,True,3.54,5.64
+95,DM-NEW-0095,Standard Bright White Newsprint 45gsm (250 ct),Newsprint,45.3,250,Standard,Bright White,True,2.3,3.86
+96,DM-NEW-0096,Standard White Newsprint 52gsm (500 ct),Newsprint,52.9,500,Standard,White,False,2.38,3.7
+97,DM-NEW-0097,Standard Cream Newsprint 49gsm (500 ct),Newsprint,49.9,500,Standard,Cream,False,3.28,4.62
+98,DM-NEW-0098,Economy Bright White Newsprint 46gsm (250 ct),Newsprint,46.9,250,Economy,Bright White,False,2.6,3.97
+99,DM-NEW-0099,Premium Assorted Newsprint 59gsm (250 ct),Newsprint,59.8,250,Premium,Assorted,False,5.56,8.47
+100,DM-NEW-0100,Standard Pink Newsprint 50gsm (500 ct),Newsprint,50.8,500,Standard,Pink,True,3.2,5.2
+101,DM-TEX-0101,Standard White Textured 197gsm (500 ct),Textured,197.1,500,Standard,White,False,10.49,15.67
+102,DM-TEX-0102,Standard Yellow Textured 123gsm (500 ct),Textured,123.4,500,Standard,Yellow,False,7.69,13.34
+103,DM-TEX-0103,Economy White Textured 186gsm (1000 ct),Textured,186.9,1000,Economy,White,False,8.3,15.06
+104,DM-TEX-0104,Economy Cream Textured 124gsm (1000 ct),Textured,124.5,1000,Economy,Cream,True,6.94,10.42
+105,DM-TEX-0105,Standard Blue Textured 142gsm (500 ct),Textured,142.9,500,Standard,Blue,False,9.0,13.94
+106,DM-TEX-0106,Premium Pink Textured 189gsm (1000 ct),Textured,189.4,1000,Premium,Pink,False,10.34,18.32
+107,DM-TEX-0107,Economy Pink Textured 111gsm (250 ct),Textured,111.0,250,Economy,Pink,False,6.0,10.37
+108,DM-TEX-0108,Premium Blue Textured 135gsm (500 ct),Textured,135.5,500,Premium,Blue,False,11.94,16.75
+109,DM-TEX-0109,Premium Yellow Textured 123gsm (250 ct),Textured,123.8,250,Premium,Yellow,True,9.91,15.53
+110,DM-TEX-0110,Premium Pink Textured 140gsm (250 ct),Textured,140.3,250,Premium,Pink,True,11.52,16.12
+111,DM-TEX-0111,Economy Ivory Textured 163gsm (250 ct),Textured,163.3,250,Economy,Ivory,False,8.09,13.53
+112,DM-ENV-0112,Standard Cream Envelope 87gsm (250 ct),Envelope,87.3,250,Standard,Cream,False,6.13,8.65
+113,DM-ENV-0113,Standard Assorted Envelope 100gsm (1000 ct),Envelope,100.2,1000,Standard,Assorted,False,5.99,8.92
+114,DM-ENV-0114,Premium Ivory Envelope 104gsm (1000 ct),Envelope,104.5,1000,Premium,Ivory,True,7.49,13.35
+115,DM-ENV-0115,Standard Assorted Envelope 89gsm (250 ct),Envelope,89.7,250,Standard,Assorted,False,5.8,8.87
+116,DM-ENV-0116,Premium Ivory Envelope 112gsm (250 ct),Envelope,112.9,250,Premium,Ivory,False,8.16,12.95
+117,DM-ENV-0117,Economy Blue Envelope 106gsm (250 ct),Envelope,106.2,250,Economy,Blue,False,6.0,8.69
+118,DM-ENV-0118,Standard Blue Envelope 89gsm (250 ct),Envelope,89.8,250,Standard,Blue,True,5.53,8.5
+119,DM-ENV-0119,Economy Cream Envelope 84gsm (250 ct),Envelope,84.4,250,Economy,Cream,False,4.78,6.82
